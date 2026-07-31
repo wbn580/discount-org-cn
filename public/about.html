@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><title>关于本站 · 折扣情报站</title><meta name="description" content="About 折扣情报站"><meta property="og:title" content="关于本站"><meta property="og:description" content="About 折扣情报站"><meta property="og:site_name" content="折扣情报站"><meta property="og:type" content="article"><meta property="og:image" content="https://discount.org.cn/og-image.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#DC2626"><script src="https://go.compares.cheap/f.js" data-site="discount-org-cn" async></script><link rel="stylesheet" href="/_astro/_slug_.LpUo8rYe.css"></head> <body class="font-body"> <header class="bg-primary text-white" data-astro-cid-3ef6ksr2> <div class="mx-auto max-w-3xl px-6 py-3 flex items-center gap-4" data-astro-cid-3ef6ksr2> <a href="/" class="font-heading text-xl font-bold" data-astro-cid-3ef6ksr2><span class="text-accent" data-astro-cid-3ef6ksr2>🔥</span> 折扣情报站</a> <nav class="ml-auto text-xs space-x-4" data-astro-cid-3ef6ksr2><a href="/" class="hover:text-accent" data-astro-cid-3ef6ksr2>今日</a><a href="/category/travel" class="hover:text-accent" data-astro-cid-3ef6ksr2>旅行</a><a href="/category/saas" class="hover:text-accent" data-astro-cid-3ef6ksr2>SaaS</a><a href="/about" data-astro-cid-3ef6ksr2>关于</a></nav> </div> </header>  <main> <section class="mx-auto max-w-3xl px-6 py-16"> <h1 class="font-heading text-3xl md:text-4xl text-primary mb-8">关于本站</h1> <div class="font-body text-ink leading-relaxed"> <p>折扣资讯综合（购物季/旅行/教育课程/SaaS 年付优惠）</p> <p class="mt-4">This is an independent editorial site. We are not affiliated with any institution mentioned unless explicitly disclosed. Content is researched and written for informational purposes.</p> <p class="mt-4">Contact: <code>contact@discount.org.cn</code></p> </div> </section> </main> <footer class="bg-primary text-white/70 mt-20 text-xs"> <div class="mx-auto max-w-3xl px-6 py-6 flex justify-between"><span>© 2026 discount.org.cn · 折扣情报站 · 时效性资讯</span><span>contact@discount.org.cn</span></div> </footer> <!-- referral-page-fix v1 · 注入到各站 base layout 的 <head> 或 </body> 前 ·
+     作用：点击/打开 go.compares.cheap 短链时，把 ?p= 改写成当前页真实 URL（origin+pathname），
+     这样无论链接在文章里还是 FAB/Header/Footer 等全站组件里，看板「真实页面」都记录到具体页面。
+     幂等：靠上面这行注释 marker 判断是否已注入，重复注入请先检测 marker。 --> <script>
+(function(){
+  function fix(a){
+    try{
+      var u=new URL(a.href, location.href);
+      if(u.hostname!=='go.compares.cheap') return;
+      u.searchParams.set('p', location.origin + location.pathname);
+      a.href = u.toString();
+    }catch(e){}
+  }
+  function preRewrite(){
+    var as=document.querySelectorAll('a[href*="go.compares.cheap"]');
+    for(var i=0;i<as.length;i++) fix(as[i]);
+  }
+  // 1) 捕获相点击：覆盖动态插入 / SPA 的链接
+  document.addEventListener('click', function(e){
+    var t=e.target, a=null;
+    while(t && t!==document){ if(t.tagName==='A'){a=t;break;} t=t.parentNode; }
+    if(a && a.href && a.href.indexOf('go.compares.cheap')>-1) fix(a);
+  }, true);
+  // 2) 加载后预改写：兜底中键打开 / 右键复制链接 / 长按等非 click 触发
+  if(document.readyState!=='loading') preRewrite();
+  else document.addEventListener('DOMContentLoaded', preRewrite);
+})();
+</script> <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"0fd7d416c909417e9cf961c10cef70bd","r":1}' crossorigin="anonymous"></script>
+</body> </html>

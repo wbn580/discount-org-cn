@@ -1,0 +1,2079 @@
+{
+  "status": "PASS",
+  "created_at": "2026-07-31T06:36:44.148061+00:00",
+  "site": "discount-org-cn",
+  "crawl": "scraped-data/discount-org-cn-live-recovery/20260731-1414/raw/crawl.json",
+  "backup": "outputs/workbuddy-bulk-drafts/2026-07-29-bulk-repair-v1/release-2026-07-30/backups/discount-org-cn-public-pre-live-recovery",
+  "recovered_count": 406,
+  "new_article_count": 6,
+  "recovered": [
+    {
+      "url": "https://discount.org.cn/",
+      "target": ".recovery-public-stage/index.html",
+      "sha256": "0c926b0bc1d082b8dedb4ba7444afa04de1a347ff1d83d4e445f5bb4a99eb9ea"
+    },
+    {
+      "url": "https://discount.org.cn/%E4%B8%BB%E6%B5%81saas%E4%BA%A7%E5%93%81%E5%AD%A6%E7%94%9F%E6%96%B9%E6%A1%88%E6%A8%AA%E5%90%91%E8%AF%84%E6%B5%8Bnotionfigmacanva%E8%B0%81%E6%9B%B4%E8%89%AF%E5%BF%83/",
+      "target": ".recovery-public-stage/主流saas产品学生方案横向评测notionfigmacanva谁更良心/index.html",
+      "sha256": "0684c6c20b150381e0cf6c25f80e5708002f670006180928b23410b57cabd200"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%85%A8%E7%BD%91%E6%8A%98%E6%89%A3%E7%A0%81%E8%81%9A%E5%90%88%E5%B7%A5%E5%85%B7%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0-vs-%E6%85%A2%E6%85%A2%E4%B9%B0-vs-%E5%96%B5%E5%96%B5%E6%8A%98/",
+      "target": ".recovery-public-stage/全网折扣码聚合工具深度评测什么值得买-vs-慢慢买-vs-喵喵折/index.html",
+      "sha256": "1edb490f6445f8f4555e99afc2513f65b5b21f414b42a8a3fa4b4da2c1fdf0ac"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%85%A8%E7%BD%91618%E4%B8%8E%E5%8F%8C11%E5%AD%A6%E7%94%9F%E4%B8%93%E5%B1%9E%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E7%AD%96%E7%95%A5/",
+      "target": ".recovery-public-stage/全网618与双11学生专属优惠信息聚合策略/index.html",
+      "sha256": "4bcdca99416998c4f52d37a5f30dbd45a2870ac5d63d50057ff14868cbe612a1"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%90%84%E5%93%81%E7%89%8C%E7%94%B5%E8%84%91%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E5%AF%B9%E6%AF%94%E8%81%94%E6%83%B3%E6%88%B4%E5%B0%94%E6%83%A0%E6%99%AE%E5%8D%8E%E4%B8%BA%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E8%AF%A6%E8%A7%A3/",
+      "target": ".recovery-public-stage/各品牌电脑学生折扣对比联想戴尔惠普华为教育优惠详解/index.html",
+      "sha256": "ecd5043eb6142169045fb89f2284748ba01b26ffa8be611bc024ecbcd9b3dbd7"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%90%8C%E6%AC%BE%E8%81%94%E6%83%B3%E5%B0%8F%E6%96%B0pro%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%AE%9E%E6%97%B6%E6%8A%98%E6%89%A3%E5%AF%B9%E6%AF%94%E6%96%B9%E6%B3%95/",
+      "target": ".recovery-public-stage/同款联想小新pro在不同电商平台的实时折扣对比方法/index.html",
+      "sha256": "c9b062452296f95ca72ff70c1340e526008e48022146f36f8be5c17d4737c62a"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A4%9A%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3%E5%AF%B9%E6%AF%94%E5%B7%A5%E5%85%B7%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B%E4%BB%8E%E7%88%AC%E8%99%AB%E5%88%B0%E9%80%9A%E7%9F%A5/",
+      "target": ".recovery-public-stage/多平台折扣对比工具自动化脚本搭建教程从爬虫到通知/index.html",
+      "sha256": "ce91e3a512dac1ecb136947af7ce2d287cf817769606ef97713edbe53062370d"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E6%96%B9%E6%A1%88/",
+      "target": ".recovery-public-stage/如何利用学生优惠构建个人知识管理系统的低成本方案/index.html",
+      "sha256": "62bf7b3a8bb83d7b13c23a895e1d2bb0a151ca0a51668148e84a584feffd9bf6"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E6%9E%84%E5%BB%BA%E4%BD%8E%E6%88%90%E6%9C%AC%E4%B8%AA%E4%BA%BAsaas%E5%B7%A5%E5%85%B7%E9%93%BE/",
+      "target": ".recovery-public-stage/如何利用学生优惠构建低成本个人saas工具链/index.html",
+      "sha256": "8d498f38129072287cd1c5bf518488d30ea61d06e2e079c83f6d2843b8403259"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E5%9F%9F%E5%90%8D%E4%B8%8Essl%E8%AF%81%E4%B9%A6/",
+      "target": ".recovery-public-stage/如何利用学生身份申请免费或低价域名与ssl证书/index.html",
+      "sha256": "f1b3dab12211b63cd45af011d30dde9f97089618783ac33b7ace361b81748fc9"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E6%9C%88%E5%8D%A1/",
+      "target": ".recovery-public-stage/如何利用学生身份申请免费或低价的公共交通月卡/index.html",
+      "sha256": "6aa62ef90566df0093f652dce4c6428e877c50358bbc0424b4007714875c349b"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E7%94%B3%E8%AF%B7%E5%85%8D%E8%B4%B9%E6%88%96%E6%8A%98%E6%89%A3%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%87%BA%E8%A1%8C%E5%8D%A1/",
+      "target": ".recovery-public-stage/如何利用学生身份申请免费或折扣的公共交通出行卡/index.html",
+      "sha256": "dec5be1dc6086b20965f22966d4088dca58eb13d9b63cec70a0dda19c443717a"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E7%94%B3%E8%AF%B7%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%AF%81isic%E5%8F%8A%E5%85%B6%E5%85%A8%E7%90%83%E6%8A%98%E6%89%A3%E6%9D%83%E7%9B%8A/",
+      "target": ".recovery-public-stage/如何利用学生身份申请国际学生证isic及其全球折扣权益/index.html",
+      "sha256": "7516e8b43f15534ad11bc162422243c56e2f42c86774ef532d9fdea837209341"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E7%94%B3%E8%AF%B7%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E5%85%8D%E5%B9%B4%E8%B4%B9%E4%B8%8E%E8%BD%AC%E8%B4%A6%E4%BC%98%E6%83%A0/",
+      "target": ".recovery-public-stage/如何利用学生身份申请银行账户免年费与转账优惠/index.html",
+      "sha256": "7d2d7ee3a051278a7dc16cd957613d60241c4b30f904628c0a2162da61ce96c3"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E4%BA%91%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4/",
+      "target": ".recovery-public-stage/如何利用学生身份获取免费或低价的云存储空间/index.html",
+      "sha256": "f4356f9fd23ea05322b288158a91624d29753a491f162da5446f0929bb16789f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E5%8A%9E%E5%85%AC%E7%A9%BA%E9%97%B4%E4%B8%8E%E4%BC%9A%E8%AE%AE%E5%AE%A4/",
+      "target": ".recovery-public-stage/如何利用学生身份获取免费或低价的办公空间与会议室/index.html",
+      "sha256": "782de141742d6e995beebdc7fc7a4b731833bec65aed95b877a586c84c8b7215"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E5%9C%A8%E7%BA%BF%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1/",
+      "target": ".recovery-public-stage/如何利用学生身份获取免费或低价的在线心理咨询服务/index.html",
+      "sha256": "6c01039320f979df9ada0746b954074b9f4f48c6044c3f9afc259b86837e33b1"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E5%AD%97%E4%BD%93%E5%95%86%E7%94%A8%E6%8E%88%E6%9D%83/",
+      "target": ".recovery-public-stage/如何利用学生身份获取免费或低价的字体商用授权/index.html",
+      "sha256": "c433be42b6ec3499871fdf1539b86cd60411687d0a2ba8bace917375785d43b9"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E6%AD%A3%E7%89%88%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/",
+      "target": ".recovery-public-stage/如何利用学生身份获取免费或低价的正版操作系统/index.html",
+      "sha256": "cdb6546c8acde173cb5ddef491dc08f93bc7c1b63f58c9f92a68e07277ce5c63"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E6%B3%95%E5%BE%8B%E4%B8%8E%E8%B4%A2%E5%8A%A1%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1/",
+      "target": ".recovery-public-stage/如何利用学生身份获取免费或低价的法律与财务咨询服务/index.html",
+      "sha256": "a63f3aef6c7714fb64f309c4148f58c4e4cbd5fde215dc3fc71750071b000e7f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/",
+      "target": ".recovery-public-stage/如何利用学生身份获取免费或低价的社交媒体管理工具/index.html",
+      "sha256": "c8cd59c7ba4dd09b61d279d84a151c2eb936c46ffc5b28dd0e6abf520c0daadc"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E9%82%AE%E4%BB%B6%E8%90%A5%E9%94%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7/",
+      "target": ".recovery-public-stage/如何利用学生身份获取免费或低价的邮件营销与自动化工具/index.html",
+      "sha256": "7823c0ce66f1e0ae4afce0ca8e97e12d31da63353ef856e446fa05e76c5b9a5e"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E6%A0%A1%E5%9B%AD%E7%BD%91ip%E7%9B%B4%E6%8E%A5%E8%B7%B3%E8%BD%AC%E8%87%B3%E5%93%81%E7%89%8C%E6%95%99%E8%82%B2%E5%95%86%E5%BA%97%E8%8E%B7%E5%8F%96%E4%B8%93%E5%B1%9E%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/如何利用校园网ip直接跳转至品牌教育商店获取专属折扣/index.html",
+      "sha256": "2976b5135680985f7fb16adf06e5193f092e009d05b72bf0615bb1af40d7b4cc"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E6%AF%94%E4%BB%B7%E7%BD%91%E7%AB%99%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC%E6%9B%B2%E7%BA%BF%E5%88%A4%E6%96%AD%E6%8A%98%E6%89%A3%E7%9C%9F%E5%AE%9E%E6%80%A7/",
+      "target": ".recovery-public-stage/如何利用比价网站的历史价格曲线判断折扣真实性/index.html",
+      "sha256": "4579102b95caa962ab7a963b4008a5dc59d77387d1c1461653ae2d16766a6e2f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8notion%E5%AD%A6%E7%94%9F%E6%96%B9%E6%A1%88%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E6%95%B0%E6%8D%AE%E5%BA%93/",
+      "target": ".recovery-public-stage/如何利用notion学生方案搭建个人折扣信息管理数据库/index.html",
+      "sha256": "04cfa9a5922a4274d5d3447f2a6eba1c436a353962aee7d3d08af00f3ab083dc"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8python%E8%84%9A%E6%9C%AC%E7%9B%91%E6%8E%A7%E7%89%B9%E5%AE%9A%E5%95%86%E5%93%81%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%BB%B7%E6%A0%BC%E6%B3%A2%E5%8A%A8/",
+      "target": ".recovery-public-stage/如何利用python脚本监控特定商品的多平台价格波动/index.html",
+      "sha256": "6a7b18e8bffb43cd3a16bbafe426bf48f9bca397eef4bcaf046af9c9a8e95dd5"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8rss%E8%AE%A2%E9%98%85%E5%AE%9E%E7%8E%B0%E4%B8%AA%E4%BA%BA%E5%8C%96%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/",
+      "target": ".recovery-public-stage/如何利用rss订阅实现个人化折扣信息聚合/index.html",
+      "sha256": "37263d2b4a107b326a1a47a6ff4d926e1ed6ff69faba963fa9b55d0c16647c45"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8telegram%E6%8A%98%E6%89%A3%E9%A2%91%E9%81%93%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96/",
+      "target": ".recovery-public-stage/如何利用telegram折扣频道实现全自动优惠信息获取/index.html",
+      "sha256": "c52b37cca076b18b3c01857f4c862c341dc898cce0a2e024f74dfb7a5df7101f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E6%9F%A5%E6%89%BE%E9%9A%90%E8%97%8F%E4%BC%98%E6%83%A0%E5%88%B8%E5%92%8C%E6%8A%98%E6%89%A3%E7%A0%81%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%A3%80%E7%B4%A2%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/如何查找隐藏优惠券和折扣码浏览器插件与人工检索技巧/index.html",
+      "sha256": "e7f419b5beadc57a483dce31c9bde3b0623fc8f9d6ea7c99afbb44cc8a837e11"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E5%A4%9A%E6%B8%A0%E9%81%93%E6%8A%98%E6%89%A3%E6%8F%90%E9%86%92%E9%82%AE%E4%BB%B6%E7%9F%AD%E4%BF%A1app%E6%8E%A8%E9%80%81%E7%9A%84%E7%BB%84%E5%90%88%E6%96%B9%E6%A1%88/",
+      "target": ".recovery-public-stage/如何设置多渠道折扣提醒邮件短信app推送的组合方案/index.html",
+      "sha256": "4b6e490d2bc1a2f6519ccd37fa8da075193555f44561c3fc94230cbb80aae27e"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E8%99%9A%E5%81%87%E6%8A%98%E6%89%A3%E7%BD%91%E7%AB%99%E4%BB%8E%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E4%BF%A1%E6%81%AF%E5%88%B0%E6%94%AF%E4%BB%98%E5%AE%89%E5%85%A8%E6%A3%80%E6%B5%8B/",
+      "target": ".recovery-public-stage/如何识别虚假折扣网站从域名注册信息到支付安全检测/index.html",
+      "sha256": "95cd0bc1c60b87f0a60270557cad7dd06313df99244ada06cb0b3badca407d9d"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%8F%82%E4%B8%8E%E4%BA%A7%E5%93%81%E5%86%85%E6%B5%8B%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E6%8A%98%E6%89%A3saas%E8%AE%A2%E9%98%85/",
+      "target": ".recovery-public-stage/如何通过参与产品内测获取免费或折扣saas订阅/index.html",
+      "sha256": "7200525a4fdd0ad319389c3942b7e0130fbdb9e23684c2fbc1970fe6ed9d8bdc"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E4%BF%A1%E7%BD%91%E8%AE%A4%E8%AF%81%E5%BF%AB%E9%80%9F%E9%80%9A%E8%BF%87unidays%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81/",
+      "target": ".recovery-public-stage/如何通过学信网认证快速通过unidays学生身份验证/index.html",
+      "sha256": "d3bed396396558482310405986ea48ec7f3f13e8049027e7124921ee03489a70"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E5%8F%82%E4%B8%8E%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E4%B8%8E%E8%A1%8C%E4%B8%9A%E5%B3%B0%E4%BC%9A/",
+      "target": ".recovery-public-stage/如何通过学生优惠参与学术会议与行业峰会/index.html",
+      "sha256": "d3a59891c58a92f1c1ac02abe1c1f10a3b8617a27fedb4369a13f4afd24ac8f4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E6%9E%84%E5%BB%BA%E4%BD%8E%E6%88%90%E6%9C%AC%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E4%B8%8E%E4%BD%9C%E5%93%81%E9%9B%86/",
+      "target": ".recovery-public-stage/如何通过学生优惠构建低成本的个人网站与作品集/index.html",
+      "sha256": "b60003867bf57ee32ca3cc4a8f686b26584266b20433f007d4e25ba99bd438bc"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E6%9E%84%E5%BB%BA%E8%BF%9C%E7%A8%8B%E5%8D%8F%E4%BD%9C%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E6%B5%81/",
+      "target": ".recovery-public-stage/如何通过学生优惠构建远程协作学习工作流/index.html",
+      "sha256": "809495f0deff1a01ad46e451ed4bfb16d4099141e0c8fe032519da0ca1ef50d5"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E5%8D%9A%E7%89%A9%E9%A6%86%E4%B8%8E%E5%B1%95%E8%A7%88%E9%97%A8%E7%A5%A8/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的博物馆与展览门票/index.html",
+      "sha256": "ad758975a080050f7bd82c3b7e8e6c59f0881cab47202303ad1a54d5fbb300f9"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E5%9B%BE%E7%89%87%E4%B8%8E%E8%A7%86%E9%A2%91%E7%B4%A0%E6%9D%90%E5%BA%93/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的图片与视频素材库/index.html",
+      "sha256": "91c865c98d7981ab9c3df439fc7b885ab0f28b2a079e21c030e7520af611606a"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E5%AD%A6%E6%9C%AF%E6%9C%9F%E5%88%8A%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BF%E9%97%AE/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的学术期刊数据库访问/index.html",
+      "sha256": "542071ab1b8ccdcd1c45de69ba9322dd88e362d04ccf249d1ec381d4579f9f6c"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E6%9F%A5%E9%87%8D%E6%9C%8D%E5%8A%A1/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的学术论文查重服务/index.html",
+      "sha256": "5d4b678f490bfd7574c43ce738b8221045e6ab4e98b1a678d3d10b88d826f363"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8E%E6%9C%89%E5%A3%B0%E4%B9%A6%E8%B5%84%E6%BA%90/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的电子书与有声书资源/index.html",
+      "sha256": "e58fd5a9b67f2483fc7dd4e9c66cbbf473c1260b199b12b24af674ac882df05e"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E7%AE%80%E5%8E%86%E4%BF%AE%E6%94%B9%E4%B8%8E%E6%B1%82%E8%81%8C%E6%9C%8D%E5%8A%A1/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的简历修改与求职服务/index.html",
+      "sha256": "2a11b79ac9defdb2cd6a889fd27b3350c52ce39cf5979ef0df67306f040080eb"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E7%BC%96%E7%A8%8B%E7%AB%9E%E8%B5%9B%E5%8F%82%E4%B8%8E%E8%B5%84%E6%A0%BC/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的编程竞赛参与资格/index.html",
+      "sha256": "04345d2b4da61a1561cbb56c8b00c7f360a4c6cd9495f300c7f60bbd0f762232"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E7%BD%91%E7%AB%99%E4%B8%8Eapp%E5%8E%9F%E5%9E%8B%E5%B7%A5%E5%85%B7/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的网站与app原型工具/index.html",
+      "sha256": "0a29a63938e187821817b45f5dad76f2c7fba6b33fbe68d94a96f57f2f537433"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E7%BD%91%E9%A1%B5%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的网页分析工具/index.html",
+      "sha256": "25f09227da4be9a46c1558609289c35984ff6c030e5faea0f10cd1c116b7422c"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9%E6%88%96%E4%BD%8E%E4%BB%B7%E7%9A%84%E8%A1%A8%E5%8D%95%E4%B8%8E%E8%B0%83%E6%9F%A5%E9%97%AE%E5%8D%B7%E5%B7%A5%E5%85%B7/",
+      "target": ".recovery-public-stage/如何通过学生优惠获取免费或低价的表单与调查问卷工具/index.html",
+      "sha256": "afd60e7533918b1509ebf92c63913067ab35bd77126efa124dcf2ca6549dea77"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%AD%A6%E7%94%9F%E9%82%AE%E7%AE%B1%E7%94%B3%E8%AF%B7aws-educate-starter-account/",
+      "target": ".recovery-public-stage/如何通过学生邮箱申请aws-educate-starter-account/index.html",
+      "sha256": "e74cb9c9a4563d52e6cec1fbd9f2e167f7a1b01a2fa9055549ef12a4dd0a6b58"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E6%95%99%E8%82%B2%E9%82%AE%E7%AE%B1%E6%B3%A8%E5%86%8C%E8%8E%B7%E5%8F%96%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E7%9A%84%E4%BA%91%E7%AB%AF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/",
+      "target": ".recovery-public-stage/如何通过教育邮箱注册获取永久免费的云端开发环境/index.html",
+      "sha256": "1d09c17afce6a5d1030bdb41924f9dc207e07fc63bf04cd067aa605f6abeb2e2"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E8%87%AA%E5%8A%A8%E6%A3%80%E6%B5%8B%E5%BD%93%E5%89%8D%E9%A1%B5%E9%9D%A2%E5%8F%AF%E7%94%A8%E7%9A%84%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/如何通过浏览器扩展自动检测当前页面可用的学生折扣/index.html",
+      "sha256": "09908ac9db213cbb58b75a7e6eff4f1f707297c0830a6d8fa9d16d4e59590445"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%8F%91%E7%8E%B0%E9%99%90%E6%97%B6%E6%8A%98%E6%89%A3%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8E%E5%BE%AE%E5%8D%9A%E4%BF%A1%E6%81%AF%E6%8A%93%E5%8F%96%E6%8A%80%E5%B7%A7/",
+      "target": ".recovery-public-stage/如何通过社交媒体发现限时折扣小红书与微博信息抓取技巧/index.html",
+      "sha256": "0103a63c87359eb71bd226cb71dde56fe64c6c18a7b69299fe9e9dc8211b590e"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87github%E5%AD%A6%E7%94%9F%E5%8C%85%E8%8E%B7%E5%8F%96%E5%85%8D%E8%B4%B9saas%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%9F%9F%E5%90%8D/",
+      "target": ".recovery-public-stage/如何通过github学生包获取免费saas开发工具与域名/index.html",
+      "sha256": "72c531485cfec61e3fed46981404d787498d2026cc5bfd5fd13dffa0aa9c3705"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87rpa%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E9%A2%86%E5%8F%96%E9%99%90%E9%87%8F%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E5%88%B8/",
+      "target": ".recovery-public-stage/如何通过rpa机器人实现自动领取限量学生优惠券/index.html",
+      "sha256": "2ae5443516d8e345801b9cdeb6a928b10a8ab7d27e2f4764c302c68cfcf707ff"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%81%9A%E5%90%88%E5%B9%B3%E5%8F%B0%E5%8F%AF%E9%9D%A0%E6%80%A7%E8%AF%84%E6%B5%8B%E6%95%99%E8%82%B2%E9%82%AE%E7%AE%B1%E8%AE%A4%E8%AF%81%E7%9A%84%E6%BD%9C%E5%9C%A8%E9%A3%8E%E9%99%A9/",
+      "target": ".recovery-public-stage/学生优惠聚合平台可靠性评测教育邮箱认证的潜在风险/index.html",
+      "sha256": "c2773a188f8bd2f4d95688b1073411ee5d1fb3879808fd2f972f2ffba689c7fc"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%B4%AD%E4%B9%B0%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%98%BF%E9%87%8C%E4%BA%91-vs-%E8%85%BE%E8%AE%AF%E4%BA%91-vs-%E5%8D%8E%E4%B8%BA%E4%BA%91%E6%95%99%E8%82%B2%E8%AE%A1%E5%88%92/",
+      "target": ".recovery-public-stage/学生优惠购买云服务器阿里云-vs-腾讯云-vs-华为云教育计划/index.html",
+      "sha256": "0def1ab51a20d594cb40d55e4c27b09b5a92cccfca8b452a769be11c6f7a0fe4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%B4%AD%E4%B9%B0%E6%98%BE%E7%A4%BA%E5%99%A8%E7%9A%84%E6%B8%A0%E9%81%93%E5%AF%B9%E6%AF%94%E4%BB%8Eaoc%E5%88%B0%E6%88%B4%E5%B0%94%E6%95%99%E8%82%B2%E5%95%86%E5%9F%8E/",
+      "target": ".recovery-public-stage/学生优惠购买显示器的渠道对比从aoc到戴尔教育商城/index.html",
+      "sha256": "0b63bc68955514abed341a7f0bdc12900ff751d5ef6e0290be6fd34517724c9f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%B4%AD%E4%B9%B0iphone%E7%9A%84%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E4%B8%8E%E9%9D%9E%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E9%A3%8E%E9%99%A9%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生优惠购买iphone的官方渠道与非官方渠道风险对比/index.html",
+      "sha256": "bb2a26c8e4a3f31c4780de159df5142ac0955e7d3249c2f5d64595b9730b5aee"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E5%A6%82%E4%BD%95%E5%AE%89%E5%85%A8%E5%85%B1%E4%BA%AB%E6%95%99%E8%82%B2%E9%82%AE%E7%AE%B1%E4%BB%A5%E8%8E%B7%E5%8F%96%E9%95%BF%E6%9C%9F%E6%8A%98%E6%89%A3%E6%9D%83%E7%9B%8A/",
+      "target": ".recovery-public-stage/学生如何安全共享教育邮箱以获取长期折扣权益/index.html",
+      "sha256": "d53c56e2d67a09320b67c498584ed627c6ea1fc2799f5f1c78b64ce765578402"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E7%BE%A4%E4%BD%93%E9%80%82%E7%94%A8%E7%9A%84%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%9D%83%E7%9B%8A%E4%B8%8E%E6%B6%88%E8%B4%B9%E8%BF%94%E7%8E%B0%E6%8A%98%E6%89%A3%E5%8F%A0%E5%8A%A0%E7%AD%96%E7%95%A5/",
+      "target": ".recovery-public-stage/学生群体适用的信用卡权益与消费返现折扣叠加策略/index.html",
+      "sha256": "1fcfedf8b85cf0b14d98b94f1e7681f031b8432dc6aaa42b7c674c79af750a08"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E7%BE%A4%E4%BD%93%E9%80%82%E7%94%A8%E7%9A%84%E8%BF%90%E8%90%A5%E5%95%86%E5%A5%97%E9%A4%90%E4%B8%8E%E7%BB%88%E7%AB%AF%E6%8A%98%E6%89%A3%E6%8D%86%E7%BB%91%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生群体适用的运营商套餐与终端折扣捆绑方案对比/index.html",
+      "sha256": "873a1ebb517382818f62548468ff9719d3ca55ceb3fce7d4e8c8f83bd1525ac4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E4%B8%89%E6%98%9Fgalaxy-tab%E7%9A%84%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E4%BA%AC%E4%B8%9C%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买三星galaxy-tab的教育优惠与京东百亿补贴对比/index.html",
+      "sha256": "b77c0f09376c3577a2861815856ad193969d57167984330ba95a6d739ccab80e"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E4%B9%90%E5%99%A8%E4%B8%8E%E9%9F%B3%E4%B9%90%E8%AE%BE%E5%A4%87%E7%9A%84%E9%9B%85%E9%A9%AC%E5%93%88%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E4%BA%8C%E6%89%8B%E4%B9%90%E5%99%A8%E5%B8%82%E5%9C%BA/",
+      "target": ".recovery-public-stage/学生购买乐器与音乐设备的雅马哈教育折扣与二手乐器市场/index.html",
+      "sha256": "de73360d07ea69d01b78e6bed37bd92f108205ce5315079c8d9335ae19d78739"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%95%99%E6%9D%90%E4%B8%8E%E7%94%B5%E5%AD%90%E4%B9%A6%E7%9A%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3%E4%B8%8E%E5%9B%9E%E6%94%B6%E5%BE%AA%E7%8E%AF%E6%9C%BA%E5%88%B6/",
+      "target": ".recovery-public-stage/学生购买二手教材与电子书的平台折扣与回收循环机制/index.html",
+      "sha256": "5afc2feb0c02b808498c4c728da16fb1936ffa2c80aba99420b349d09f4edce4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E4%BA%BA%E4%BD%93%E5%B7%A5%E5%AD%A6%E6%A4%85%E7%9A%84%E8%A5%BF%E6%98%8A%E4%B8%8E%E7%BD%91%E6%98%93%E4%B8%A5%E9%80%89%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买人体工学椅的西昊与网易严选教育优惠对比/index.html",
+      "sha256": "ce28b04c663e2e5feb4176a98322e74dd61f89ba6ada452d4b16d62b14aef5fb"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E4%BF%9D%E6%B8%A9%E6%9D%AF%E7%9A%84%E8%86%B3%E9%AD%94%E5%B8%88%E4%B8%8E%E5%AF%8C%E5%85%89%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E7%94%B5%E5%95%86%E5%A4%A7%E4%BF%83/",
+      "target": ".recovery-public-stage/学生购买保温杯的膳魔师与富光教育折扣与电商大促/index.html",
+      "sha256": "4dd5eae499dbd380daca6269e8633f40b0fbcb6e0315bf7f50056721d714e0ba"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%81%A5%E8%BA%AB%E5%8D%A1%E4%B8%8E%E8%BF%90%E5%8A%A8%E5%9C%BA%E9%A6%86%E7%9A%84%E8%B6%85%E7%BA%A7%E7%8C%A9%E7%8C%A9%E4%B8%8E%E4%B9%90%E5%88%BB%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买健身卡与运动场馆的超级猩猩与乐刻学生折扣/index.html",
+      "sha256": "7d4450ec7363900fed815f894c8e1d1ef6f37b57c83ae7db54a7ca81422f7570"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%8D%8E%E4%B8%BAmatebook%E7%9A%84%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E7%BA%BF%E4%B8%8B%E6%8E%88%E6%9D%83%E5%BA%97%E4%BB%B7%E6%A0%BC%E5%B7%AE%E5%BC%82/",
+      "target": ".recovery-public-stage/学生购买华为matebook的教育优惠与线下授权店价格差异/index.html",
+      "sha256": "013a5857f3b75a6acea24410683695cd66dd4d9ce4e0dc5ffc896a264130fe42"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%8F%A3%E7%BD%A9%E4%B8%8E%E9%98%B2%E6%8A%A4%E7%94%A8%E5%93%81%E7%9A%843m%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E9%98%BF%E9%87%8C%E5%81%A5%E5%BA%B7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买口罩与防护用品的3m教育折扣与阿里健康对比/index.html",
+      "sha256": "07cd47199e3cf617aa6918da36d392bd8533daba26bc7de8ab1aa6230632dd2c"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%92%96%E5%95%A1%E5%99%A8%E5%85%B7%E4%B8%8E%E9%A5%AE%E5%93%81%E7%9A%84%E6%98%9F%E5%B7%B4%E5%85%8B%E5%AD%A6%E7%94%9F%E5%8D%A1%E4%B8%8E%E7%91%9E%E5%B9%B8%E6%A0%A1%E5%9B%AD%E5%BA%97%E4%BB%B7%E6%A0%BC/",
+      "target": ".recovery-public-stage/学生购买咖啡器具与饮品的星巴克学生卡与瑞幸校园店价格/index.html",
+      "sha256": "602f94647895143be2c6b73eeb1ebc993dba0e8b3f4a802063da25b8765f27d8"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%9E%83%E5%9C%BE%E8%A2%8B%E4%B8%8E%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E7%9A%84%E5%A4%A9%E5%A0%82%E4%BC%9E%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E1688%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买垃圾袋与清洁工具的天堂伞教育折扣与1688对比/index.html",
+      "sha256": "e5c5e490be5213db1daed8fda9c294bee73a6b27ce4e8d94a4449b5e832c92ac"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%A4%96%E6%8E%A5%E7%A1%AC%E7%9B%98%E7%9A%84%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3%E5%91%A8%E6%9C%9F%E4%B8%8E%E6%9C%80%E4%BD%8E%E4%BB%B7%E9%A2%84%E6%B5%8B/",
+      "target": ".recovery-public-stage/学生购买外接硬盘的电商平台折扣周期与最低价预测/index.html",
+      "sha256": "4510cc96a4d34df6712a3c1af5f99770f5a447feeefb90333c40a27c813397f4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%A4%AA%E9%98%B3%E9%95%9C%E4%B8%8E%E9%85%8D%E9%A5%B0%E7%9A%84%E9%9B%B7%E6%9C%8B%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E5%A4%A9%E7%8C%AB%E5%9B%BD%E9%99%85%E4%BB%B7%E6%A0%BC/",
+      "target": ".recovery-public-stage/学生购买太阳镜与配饰的雷朋教育折扣与天猫国际价格/index.html",
+      "sha256": "03bcf53ebbddf96f66e9337a4bf191e64a5806a51b5170b3239521b759c2e02a"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E5%87%80%E6%B0%B4%E5%99%A8%E7%9A%84%E5%8F%B0%E5%BC%8F%E4%B8%8E%E6%BB%A4%E6%B0%B4%E5%A3%B6%E6%96%B9%E6%A1%88%E6%88%90%E6%9C%AC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买宿舍净水器的台式与滤水壶方案成本对比/index.html",
+      "sha256": "111197e17fdf1c9b995243dcc26fee2aae7846e7aa503b6d3365f9045f64b4d2"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E5%8A%A0%E6%B9%BF%E5%99%A8%E7%9A%84%E8%B6%85%E5%A3%B0%E6%B3%A2%E4%B8%8E%E8%92%B8%E5%8F%91%E5%BC%8F%E9%80%89%E6%8B%A9%E5%8F%8A%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍加湿器的超声波与蒸发式选择及折扣/index.html",
+      "sha256": "c6a9dd43c30a6e50a27106af71eee4ec5c115aa18c967fc701b7edae58b545cb"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E5%8F%96%E6%9A%96%E5%99%A8%E7%9A%84%E7%B1%BB%E5%9E%8B%E9%80%89%E6%8B%A9%E4%B8%8E%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3%E5%AE%89%E5%85%A8%E6%80%A7%E8%AF%84%E6%B5%8B/",
+      "target": ".recovery-public-stage/学生购买宿舍取暖器的类型选择与各平台折扣安全性评测/index.html",
+      "sha256": "102ebf583aa02a310f7cd930b3a35acf2b6b852f5ec694624d2406096fae6f01"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E5%8F%B0%E7%81%AF%E7%9A%84%E6%8A%A4%E7%9C%BC%E6%A0%87%E5%87%86%E4%B8%8E%E5%90%84%E5%93%81%E7%89%8C%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买宿舍台灯的护眼标准与各品牌教育折扣对比/index.html",
+      "sha256": "7c3b4476195edf5d185efdb681f110a6bb90a82792e347c26668bc5a559afc37"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E5%90%B8%E5%B0%98%E5%99%A8%E7%9A%84%E6%97%A0%E7%BA%BF%E4%B8%8E%E6%9C%89%E7%BA%BF%E9%80%89%E6%8B%A9%E5%8F%8A%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍吸尘器的无线与有线选择及各平台折扣/index.html",
+      "sha256": "80257e9500c71c48253a29ffb3c0c8a43f245b1e67f03132a4ef4bc0e5baaf3d"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E5%B0%8F%E5%86%B0%E7%AE%B1%E7%9A%84%E5%8A%9F%E7%8E%87%E4%B8%8E%E8%83%BD%E6%95%88%E6%A0%87%E5%87%86%E5%8F%8A%E6%8A%98%E6%89%A3%E6%B8%A0%E9%81%93/",
+      "target": ".recovery-public-stage/学生购买宿舍小冰箱的功率与能效标准及折扣渠道/index.html",
+      "sha256": "b74a931cab5fb69661f1dc4f217258914f9638e4ccdaa8e5d4bc6b251277a495"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E5%B0%8F%E5%AE%B6%E7%94%B5%E7%9A%84%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4%E4%B8%8E%E4%BA%AC%E4%B8%9C%E6%A0%A1%E5%9B%AD%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买宿舍小家电的拼多多百亿补贴与京东校园价格对比/index.html",
+      "sha256": "17a0aa29458d7b64f2086378f88c2bbda619d0030d4b2777f726435a3974a816"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E5%BA%8A%E5%93%81%E7%9A%84%E7%BD%91%E6%98%93%E4%B8%A5%E9%80%89%E4%B8%8E%E5%B0%8F%E7%B1%B3%E6%9C%89%E5%93%81%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买宿舍床品的网易严选与小米有品教育优惠对比/index.html",
+      "sha256": "61739d76d9cd1ab58b9f1eca71f0516e886df94bb8d2da744a48c083a7bd2032"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E6%8A%95%E5%BD%B1%E4%BB%AA%E7%9A%84%E5%BD%93%E8%B4%9D%E4%B8%8E%E6%9E%81%E7%B1%B3%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF/",
+      "target": ".recovery-public-stage/学生购买宿舍投影仪的当贝与极米教育优惠及使用场景/index.html",
+      "sha256": "49ed4fce71761990650bf093b5574c67bdc5fa2fe73eebed8c879a8c04dc102f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E6%8C%82%E7%83%AB%E6%9C%BA%E4%B8%8E%E8%A1%A3%E7%89%A9%E6%8A%A4%E7%90%86%E4%BA%A7%E5%93%81%E7%9A%84%E6%8A%98%E6%89%A3%E6%B8%A0%E9%81%93%E6%95%B4%E7%90%86/",
+      "target": ".recovery-public-stage/学生购买宿舍挂烫机与衣物护理产品的折扣渠道整理/index.html",
+      "sha256": "6bc14c2de048e5e6d89fd912e1918d18e96a76b0467ce9dfbd8918b8218bc2b1"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E6%94%B6%E7%BA%B3%E7%94%A8%E5%93%81%E7%9A%84%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81%E4%B8%8E%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E6%8A%98%E6%89%A3%E6%B8%A0%E9%81%93/",
+      "target": ".recovery-public-stage/学生购买宿舍收纳用品的无印良品与名创优品折扣渠道/index.html",
+      "sha256": "d64739afc89434284dea37ef7ccd4cd6f0ddfb39f17ebc35d04070bf50eb8b01"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E6%99%BE%E8%A1%A3%E6%9E%B6%E7%9A%84%E7%B1%BB%E5%9E%8B%E4%B8%8E%E7%A9%BA%E9%97%B4%E5%88%A9%E7%94%A8%E5%8F%8A%E6%8A%98%E6%89%A3%E6%B8%A0%E9%81%93/",
+      "target": ".recovery-public-stage/学生购买宿舍晾衣架的类型与空间利用及折扣渠道/index.html",
+      "sha256": "013ce52cfb9d2f6eb6d131b62c5e9a791f2eb4f8a6b5f28462c096ce7db11acf"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E6%A1%8C%E9%9D%A2%E7%90%86%E7%BA%BF%E5%99%A8%E7%9A%84%E5%93%81%E7%89%8C%E9%80%89%E6%8B%A9%E4%B8%8E%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍桌面理线器的品牌选择与各平台折扣/index.html",
+      "sha256": "34eec2815b614e0bb38c1337c21c33d016e3417e27e1ba8e2e1d9713015b335f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E7%81%AD%E8%9A%8A%E7%81%AF%E7%9A%84%E7%89%A9%E7%90%86%E4%B8%8E%E5%8C%96%E5%AD%A6%E7%81%AD%E8%9A%8A%E6%96%B9%E5%BC%8F%E5%8F%8A%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍灭蚊灯的物理与化学灭蚊方式及折扣/index.html",
+      "sha256": "1b07b5097b22eb7e079db5a4f6c75bdafc6b89ca6f190d9d6b6283c43275bb83"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E7%83%98%E9%9E%8B%E5%99%A8%E7%9A%84%E5%8A%9F%E7%8E%87%E4%B8%8E%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E5%8F%8A%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍烘鞋器的功率与安全标准及各平台折扣/index.html",
+      "sha256": "63459913076e7688ceed31c73fee2730f6cfee7baf191a5123f64e3fefb0c97e"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E7%94%B5%E5%99%A8%E7%9A%84%E5%8A%9F%E7%8E%87%E9%99%90%E5%88%B6%E4%B8%8E%E6%8A%98%E6%89%A3%E4%BA%A7%E5%93%81%E9%80%89%E8%B4%AD%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97/",
+      "target": ".recovery-public-stage/学生购买宿舍电器的功率限制与折扣产品选购避坑指南/index.html",
+      "sha256": "839117944e761da74758879a2699a83a2ed7801ddf16306c81cceb4f9f330c29"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E7%94%B5%E7%83%AD%E6%AF%AF%E7%9A%84%E5%AE%89%E5%85%A8%E8%AE%A4%E8%AF%81%E4%B8%8E%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3%E5%8A%9B%E5%BA%A6%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/学生购买宿舍电热毯的安全认证与各平台折扣力度分析/index.html",
+      "sha256": "6afb29e5f3e249946e934c79a3ed21991d6de4eae54e71640927e168c25d5f41"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E7%94%B5%E7%85%AE%E9%94%85%E7%9A%84%E5%AE%89%E5%85%A8%E6%A0%87%E5%87%86%E4%B8%8E%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3%E5%8A%9B%E5%BA%A6%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/学生购买宿舍电煮锅的安全标准与各平台折扣力度分析/index.html",
+      "sha256": "9ae7abef3ea77e54b1f9bd0c99f885f6ce8f19c66686111aa37d4257a98ab8d6"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E7%A9%BA%E6%B0%94%E5%BE%AA%E7%8E%AF%E6%89%87%E7%9A%84%E7%9B%B4%E6%B5%81%E4%B8%8E%E4%BA%A4%E6%B5%81%E7%94%B5%E6%9C%BA%E9%80%89%E6%8B%A9%E5%8F%8A%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍空气循环扇的直流与交流电机选择及折扣/index.html",
+      "sha256": "86f7ca7c60a2388b06fda2486454dfdadb08d8916a5427bbde52b2c80a65ee2f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E8%84%8F%E8%A1%A3%E7%AF%AE%E7%9A%84%E6%9D%90%E8%B4%A8%E4%B8%8E%E5%AE%B9%E9%87%8F%E9%80%89%E6%8B%A9%E5%8F%8A%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍脏衣篮的材质与容量选择及各平台折扣/index.html",
+      "sha256": "aeab9a012b8c0a418c569afd8e7395d2e00979757c9247572cf195b32e05dda4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E9%97%A8%E9%94%81%E7%9A%84%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E6%A2%B0%E9%80%89%E6%8B%A9%E5%8F%8A%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍门锁的智能与机械选择及各平台折扣/index.html",
+      "sha256": "70bd8badf24430e6859df0afba91e79b2d2690d9ed9a3f14beb482c91bba4816"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E9%99%A4%E6%B9%BF%E6%9C%BA%E4%B8%8E%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96%E5%99%A8%E7%9A%84%E9%80%82%E7%94%A8%E9%9D%A2%E7%A7%AF%E4%B8%8E%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买宿舍除湿机与空气净化器的适用面积与折扣/index.html",
+      "sha256": "4c4407ebc015ebf9f23f35dd9bce91225b7527007f7555115c1a4ed2661a56a1"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%AE%BF%E8%88%8D%E9%A6%99%E8%96%B0%E6%9C%BA%E7%9A%84%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81%E4%B8%8E%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E6%8A%98%E6%89%A3%E6%B8%A0%E9%81%93/",
+      "target": ".recovery-public-stage/学生购买宿舍香薰机的无印良品与名创优品折扣渠道/index.html",
+      "sha256": "e487d787b1ec9ebed15687e8c342533a423ab9e78d768631c31dda1c76f70661"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%B8%BD%E5%AD%90%E4%B8%8E%E5%8F%91%E9%A5%B0%E7%9A%84mlb%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E6%B7%98%E5%AE%9D%E7%9B%B4%E6%92%AD%E4%BB%B7%E6%A0%BC/",
+      "target": ".recovery-public-stage/学生购买帽子与发饰的mlb教育折扣与淘宝直播价格/index.html",
+      "sha256": "16b9fb71bf0fd8b4700e7bc3e322fae6967fd0d7842fa3329eef0e963f45b8d1"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%9A%84%E5%85%A8%E6%B8%A0%E9%81%93%E4%BB%B7%E6%A0%BC%E7%9B%91%E6%8E%A7%E4%B8%8E%E5%85%A5%E6%89%8B%E6%97%B6%E6%9C%BA%E5%86%B3%E7%AD%96%E6%A8%A1%E5%9E%8B/",
+      "target": ".recovery-public-stage/学生购买平板电脑的全渠道价格监控与入手时机决策模型/index.html",
+      "sha256": "efa9ecc35182aaba3f49ebcdf3ec359dd25f01a986b19c1012df6a5fb4da6ce6"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E5%BA%8A%E5%9E%AB%E7%9A%84%E8%93%9D%E7%9B%92%E5%AD%90%E4%B8%8E%E7%BD%91%E6%98%93%E4%B8%A5%E9%80%89%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%8F%8A%E8%AF%95%E7%9D%A1%E6%94%BF%E7%AD%96/",
+      "target": ".recovery-public-stage/学生购买床垫的蓝盒子与网易严选教育优惠及试睡政策/index.html",
+      "sha256": "385def68d9ee4448519c4dae62258e904db0e503b5d2a10b65523da28cdf30ec"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%88%B4%E5%B0%94xps%E7%9A%84%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E5%AE%98%E7%BD%91outlet%E5%AE%98%E7%BF%BB%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买戴尔xps的教育优惠与官网outlet官翻机价格对比/index.html",
+      "sha256": "55f51c60f7fee6e3947147a19b0b622cfc6969435ba1da5a5a171d670cbf7409"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%89%8B%E5%A5%97%E4%B8%8E%E5%9B%B4%E5%B7%BE%E7%9A%84%E6%81%92%E6%BA%90%E7%A5%A5%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E1688%E6%BA%90%E5%A4%B4%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买手套与围巾的恒源祥教育折扣与1688源头对比/index.html",
+      "sha256": "bbec35ecc9c19954817cd06edcdb52ad0c1e9c34221f63ca8bcc15caafc11c7a"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%89%8B%E5%A5%97%E4%B8%8E%E6%B4%97%E7%A2%97%E7%94%A8%E5%93%81%E7%9A%84%E5%A6%99%E6%B4%81%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买手套与洗碗用品的妙洁教育折扣与拼多多对比/index.html",
+      "sha256": "6ef21c822c4a278b431ac082996897878cdc0a25bb1704abb2559469e9da8ba4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%89%8B%E6%9C%BA%E7%9A%84%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E8%BF%90%E8%90%A5%E5%95%86%E5%90%88%E7%BA%A6%E6%9C%BA%E9%95%BF%E6%9C%9F%E6%88%90%E6%9C%AC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买手机的教育优惠与运营商合约机长期成本对比/index.html",
+      "sha256": "b2c530d71d882ea932f7f1308c1a2f7b2cf7580884506feb844c73b760ae4915"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%89%93%E5%8D%B0%E6%9C%BA%E8%80%97%E6%9D%90%E7%9A%84%E9%95%BF%E6%9C%9F%E6%8A%98%E6%89%A3%E8%AE%A2%E9%98%85%E6%9C%8D%E5%8A%A1%E8%AF%84%E6%B5%8B/",
+      "target": ".recovery-public-stage/学生购买打印机耗材的长期折扣订阅服务评测/index.html",
+      "sha256": "530a85ee53f39a6140d6fd595ce09a1f5588c07ba3a9ca23c8aff0049f3df3da"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%8B%96%E9%9E%8B%E4%B8%8E%E5%AE%B6%E5%B1%85%E6%9C%8D%E7%9A%84%E4%BC%98%E8%A1%A3%E5%BA%93%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E5%A4%A9%E7%8C%AB%E6%97%97%E8%88%B0%E5%BA%97%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买拖鞋与家居服的优衣库教育折扣与天猫旗舰店对比/index.html",
+      "sha256": "78d16936c203e8bc03f88dc7c3957ce87611d7375c7e2f84161b72109c5d3155"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%96%87%E5%85%B7%E7%9A%84%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E7%B1%BB%E4%BA%A7%E5%93%81%E5%9B%BD%E8%AA%89%E4%B8%8E%E6%99%A8%E5%85%89%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买文具的效率工具类产品国誉与晨光教育折扣对比/index.html",
+      "sha256": "12c39c5ff45f7f4532888c022eb053d2303ebd5eb0d151cae079f0094ba75828"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%97%85%E8%A1%8C%E7%AE%B1%E5%8C%85%E7%9A%84%E5%A4%96%E4%BA%A4%E5%AE%98%E4%B8%8E%E5%B0%8F%E7%B1%B390%E5%88%86%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买旅行箱包的外交官与小米90分教育优惠对比/index.html",
+      "sha256": "150f4bd85534980eb4803506534f73ef18eb3520abdeb3e72a0eb8b063dcc6f8"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%98%BE%E7%A4%BA%E6%94%AF%E6%9E%B6%E4%B8%8E%E6%A1%8C%E9%9D%A2%E9%85%8D%E4%BB%B6%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BB%B7%E6%9F%A5%E8%AF%A2%E6%96%B9%E6%B3%95/",
+      "target": ".recovery-public-stage/学生购买显示支架与桌面配件的多平台历史低价查询方法/index.html",
+      "sha256": "fef9189d701ff159b2c36e43d76e21fa27cbcd5de298d48d4d205fe387f02996"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E8%AE%BE%E5%A4%87%E7%9A%84%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8A%98%E6%89%A3%E5%8F%A0%E5%8A%A0%E8%A7%84%E5%88%99%E8%A7%A3%E6%9E%90/",
+      "target": ".recovery-public-stage/学生购买智能穿戴设备的各平台折扣叠加规则解析/index.html",
+      "sha256": "cce92afc080ce72f876d38268b2e91aa35166bcf0b6722b6958a5f77fa139cf4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1%E7%9A%84%E5%A4%A9%E7%8C%AB%E7%B2%BE%E7%81%B5%E4%B8%8E%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E6%B8%A0%E9%81%93/",
+      "target": ".recovery-public-stage/学生购买智能音箱的天猫精灵与小爱同学教育折扣渠道/index.html",
+      "sha256": "16d7fae3d5e617c09829fd4825b87211d5402af4f5b5e9a80730e229f9710ff4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%9C%BA%E6%A2%B0%E8%A1%A8%E4%B8%8E%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E7%9A%84%E5%A4%A9%E7%BE%8E%E6%97%B6%E4%B8%8E%E5%8D%8E%E4%B8%BA%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买机械表与智能手表的天美时与华为教育折扣/index.html",
+      "sha256": "eaf13c437806aa9cb0dedd90e55c086969469a487b5b4c12ea52cee925714c3b"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98%E7%9A%84%E5%AE%A2%E5%88%B6%E5%8C%96%E6%B8%A0%E9%81%93%E4%B8%8E%E6%88%90%E5%93%81%E6%8A%98%E6%89%A3%E7%AD%96%E7%95%A5%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买机械键盘的客制化渠道与成品折扣策略对比/index.html",
+      "sha256": "221341961038d150d0f13296e2e2bad2fe8e9a8c84a980a59755c90d23766d25"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%9E%95%E5%A4%B4%E7%9A%84%E4%B9%B3%E8%83%B6%E4%B8%8E%E8%AE%B0%E5%BF%86%E6%A3%89%E6%9D%90%E8%B4%A8%E9%80%89%E6%8B%A9%E5%8F%8A%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0/",
+      "target": ".recovery-public-stage/学生购买枕头的乳胶与记忆棉材质选择及教育优惠/index.html",
+      "sha256": "1878485d3619ccc02d5a26837606e8a7e880165ef999b25c2315049e2e204a90"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%9C%BA%E7%9A%84switch%E4%B8%8Eps5%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E6%B5%B7%E6%B7%98%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买游戏主机的switch与ps5教育优惠与海淘价格对比/index.html",
+      "sha256": "ef84df1b564faf409a4d9cb529ddf9b03040d5c4bb5ce1ce5dd178a6c30da182"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E6%B8%B8%E6%88%8F%E6%9C%AC%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%E5%BC%80%E5%AD%A6%E5%AD%A3-vs-618-vs-%E5%8F%8C11%E4%BB%B7%E6%A0%BC%E8%BF%BD%E8%B8%AA/",
+      "target": ".recovery-public-stage/学生购买游戏本的最佳时机开学季-vs-618-vs-双11价格追踪/index.html",
+      "sha256": "cfbdf6036fdb247686aab3d2b846908792f24f928078985d1a8ff5eebe868749"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%94%B5%E5%8A%A8%E6%BB%91%E6%9D%BF%E8%BD%A6%E7%9A%84%E4%B9%9D%E5%8F%B7%E4%B8%8E%E5%B0%8F%E7%B1%B3%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%8F%8A%E6%A0%A1%E5%9B%AD%E9%80%9A%E8%A1%8C%E6%94%BF%E7%AD%96/",
+      "target": ".recovery-public-stage/学生购买电动滑板车的九号与小米教育优惠及校园通行政策/index.html",
+      "sha256": "69245f2939258b7a1ddaa001e84a43ea0db8527d982cd8f835b8bf99b3cb78c0"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%E7%9A%84%E6%AC%A7%E4%B9%90b%E4%B8%8E%E9%A3%9E%E5%88%A9%E6%B5%A6%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E7%94%B5%E5%95%86%E5%A4%A7%E4%BF%83%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买电动牙刷的欧乐b与飞利浦教育折扣与电商大促对比/index.html",
+      "sha256": "793847572aa971042c8faa63bf57ad89b8cf41a6cc3cbdd310a9db2744a400b5"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%94%B5%E7%AB%9E%E6%A4%85%E7%9A%84%E4%BA%BA%E4%BD%93%E5%B7%A5%E5%AD%A6%E5%93%81%E7%89%8C%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E7%94%B5%E5%95%86%E5%A4%A7%E4%BF%83%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买电竞椅的人体工学品牌教育优惠与电商大促对比/index.html",
+      "sha256": "6ba304f4b1a15860409cc6e3a7a471e9addcbf9233ad3243859c78920a9fba4e"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%94%BB%E6%9D%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7%E7%9A%84%E6%A8%B1%E8%8A%B1%E4%B8%8E%E9%A9%AC%E5%88%A9%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E6%B8%A0%E9%81%93/",
+      "target": ".recovery-public-stage/学生购买画材与设计工具的樱花与马利教育折扣渠道/index.html",
+      "sha256": "8a3174cb2ae7117e36f8878a9f637e1e8cc9df1db7f477181da07d8936de0955"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%9B%B8%E6%9C%BA%E4%B8%8E%E9%95%9C%E5%A4%B4%E7%9A%84%E7%B4%A2%E5%B0%BC%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E4%BB%B7%E6%A0%BC%E4%BF%9D%E6%8A%A4/",
+      "target": ".recovery-public-stage/学生购买相机与镜头的索尼教育优惠与京东自营价格保护/index.html",
+      "sha256": "6d35b34a6f56c11d1cdb3402cb8b25981cfec26f252c5c0b171cae1fec24d098"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%9C%BC%E9%95%9C%E4%B8%8E%E9%9A%90%E5%BD%A2%E7%9C%BC%E9%95%9C%E7%9A%84%E5%8F%AF%E5%BE%97%E4%B8%8E%E5%AE%9D%E5%B2%9B%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E6%B8%A0%E9%81%93/",
+      "target": ".recovery-public-stage/学生购买眼镜与隐形眼镜的可得与宝岛教育优惠渠道/index.html",
+      "sha256": "3a94b206a804b3c2e99e5fab40a36759fbc9115279136c5bbb835fa2fb218ba4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%A7%BB%E5%8A%A8%E7%94%B5%E6%BA%90%E4%B8%8E%E5%85%85%E7%94%B5%E9%85%8D%E4%BB%B6%E7%9A%84anker%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买移动电源与充电配件的anker教育优惠与拼多多对比/index.html",
+      "sha256": "a1f0b62343513f719d99eed738b3c84c70d6da2f3df7a9cdda4ab0a006d72f97"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%A7%BB%E5%8A%A8%E7%A1%AC%E7%9B%98%E4%B8%8Eu%E7%9B%98%E7%9A%84%E5%93%81%E7%89%8C%E5%AE%98%E6%96%B9%E6%8A%98%E6%89%A3%E4%B8%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%97%E9%93%BA%E9%89%B4%E5%88%AB/",
+      "target": ".recovery-public-stage/学生购买移动硬盘与u盘的品牌官方折扣与第三方店铺鉴别/index.html",
+      "sha256": "fe9425446c3032ceea3bc64006241f1188f821534c99c79b47cb1b9d2a2e3052"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%BD%91%E7%BA%BF%E5%8F%8A%E7%BD%91%E7%BB%9C%E9%85%8D%E4%BB%B6%E7%9A%84%E4%BC%81%E4%B8%9A%E7%BA%A7%E4%BA%A7%E5%93%81%E4%B8%8E%E6%B6%88%E8%B4%B9%E7%BA%A7%E4%BA%A7%E5%93%81%E4%BB%B7%E5%B7%AE/",
+      "target": ".recovery-public-stage/学生购买网线及网络配件的企业级产品与消费级产品价差/index.html",
+      "sha256": "d94c49e4f406371558a3ba3ad94f5cb2a38f4f2da409170784bba07fbcae12d1"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E7%BE%8E%E5%A6%86%E6%8A%A4%E8%82%A4%E5%93%81%E7%9A%84%E4%B8%9D%E8%8A%99%E5%85%B0%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E5%85%8D%E7%A8%8E%E5%BA%97%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买美妆护肤品的丝芙兰教育折扣与免税店价格对比/index.html",
+      "sha256": "de41dd3edb82027ac7739968a9879f9b26141cd02a8a3cfa5da419273454acd3"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E8%80%B3%E6%9C%BA%E7%AD%89%E9%9F%B3%E9%A2%91%E8%AE%BE%E5%A4%87%E7%9A%84%E6%B5%B7%E5%A4%96%E8%B4%AD%E4%B8%8E%E5%9B%BD%E8%A1%8C%E4%BB%B7%E6%A0%BC%E5%B7%AE%E5%BC%82%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/学生购买耳机等音频设备的海外购与国行价格差异分析/index.html",
+      "sha256": "4189cc5866bed208d08dbab96f6930cd981d42a7117fd82bb5b9f316c7a0c832"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E8%83%8C%E5%8C%85%E4%B8%8E%E6%95%B0%E7%A0%81%E6%94%B6%E7%BA%B3%E4%BA%A7%E5%93%81%E7%9A%84%E5%93%81%E7%89%8C%E5%AE%98%E7%BD%91%E6%8A%98%E6%89%A3%E4%B8%8E%E6%B5%B7%E6%B7%98%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买背包与数码收纳产品的品牌官网折扣与海淘对比/index.html",
+      "sha256": "23918134fbda01f708f6d696904291157063f92a8a10d8d3e6db845b0ed8132a"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E8%85%B0%E5%B8%A6%E4%B8%8E%E9%92%B1%E5%8C%85%E7%9A%84%E7%9A%AE%E5%B0%94%E5%8D%A1%E4%B8%B9%E4%B8%8E%E4%B8%83%E5%8C%B9%E7%8B%BC%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3/",
+      "target": ".recovery-public-stage/学生购买腰带与钱包的皮尔卡丹与七匹狼教育折扣/index.html",
+      "sha256": "75dd000e5e1f30bfa9cbd6dad5dbfa3284b7c4e94a4e52b8b65779110d55a126"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E8%93%9D%E7%89%99%E9%9F%B3%E7%AE%B1%E7%9A%84jbl%E4%B8%8E%E6%BC%AB%E6%AD%A5%E8%80%85%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E8%AF%84%E6%B5%8B%E6%8E%A8%E8%8D%90/",
+      "target": ".recovery-public-stage/学生购买蓝牙音箱的jbl与漫步者教育折扣与评测推荐/index.html",
+      "sha256": "e739abbc3475ca47417a365c293b5d65b3f8545cf5faa146e772549a7fe2c47a"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E8%A1%8C%E6%9D%8E%E7%AE%B1%E7%9A%84%E6%96%B0%E7%A7%80%E4%B8%BD%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买行李箱的新秀丽教育优惠与电商平台百亿补贴对比/index.html",
+      "sha256": "1ca7f26fd6395a93830722fcc4072ef42736c964e77f69f5b24a21f5b95cdc02"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E8%A2%9C%E5%AD%90%E4%B8%8E%E5%86%85%E8%A1%A3%E7%9A%84%E8%95%89%E5%86%85%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E5%94%AF%E5%93%81%E4%BC%9A%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买袜子与内衣的蕉内教育折扣与唯品会对比/index.html",
+      "sha256": "2672e598d8a37773bfd3afcbb435491976e639b7b7cfa83c81c9ec3577858f7e"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E6%A0%A1%E5%9B%AD%E7%BD%91%E5%85%BC%E5%AE%B9%E6%80%A7%E8%80%83%E9%87%8F%E4%B8%8E%E7%94%B5%E5%95%86%E6%8A%98%E6%89%A3%E8%BF%BD%E8%B8%AA/",
+      "target": ".recovery-public-stage/学生购买路由器的校园网兼容性考量与电商折扣追踪/index.html",
+      "sha256": "91b7256cfdcc82618dc1929f491b8d7e063055c23b9b360c6f4395756e7e0143"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E8%BF%90%E5%8A%A8%E9%9E%8B%E6%9C%8D%E7%9A%84nike%E4%B8%8Eadidas%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E8%AF%86%E8%B4%A7%E6%AF%94%E4%BB%B7/",
+      "target": ".recovery-public-stage/学生购买运动鞋服的nike与adidas教育优惠与识货比价/index.html",
+      "sha256": "acb27c260f8c63814e595e273e0a2c21443e08d1123a064cd5d4826bf830432f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0%E9%9B%A8%E4%BC%9E%E4%B8%8E%E9%98%B2%E6%99%92%E7%94%A8%E5%93%81%E7%9A%84%E8%95%89%E4%B8%8B%E6%95%99%E8%82%B2%E6%8A%98%E6%89%A3%E4%B8%8E%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买雨伞与防晒用品的蕉下教育折扣与拼多多对比/index.html",
+      "sha256": "037939c4df2c52f4737df0132eb5c2f2c65917e967cf5041d66a736ec87b492f"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0kindle%E4%B8%8E%E6%8E%8C%E9%98%85%E7%94%B5%E5%AD%90%E4%B9%A6%E9%98%85%E8%AF%BB%E5%99%A8%E7%9A%84%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买kindle与掌阅电子书阅读器的教育优惠对比/index.html",
+      "sha256": "b6960821d7022be0a97a58c6919db3ca5dd62993d2485f67b7c50c1014923547"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0macbook-air-m3%E6%9C%80%E4%BD%8E%E4%BB%B7%E6%B8%A0%E9%81%93%E8%BF%BD%E8%B8%AA%E4%B8%8E%E9%AA%8C%E8%AF%81/",
+      "target": ".recovery-public-stage/学生购买macbook-air-m3最低价渠道追踪与验证/index.html",
+      "sha256": "425a7c710ce2850b3cb7917abf6c911d0dbe1b47c1ba1f6427d316445e15f024"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0nas%E7%A7%81%E6%9C%89%E4%BA%91%E5%AD%98%E5%82%A8%E7%9A%84%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E4%B8%8E%E9%97%B2%E9%B1%BC%E4%BA%8C%E6%89%8B%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/学生购买nas私有云存储的教育优惠与闲鱼二手价格对比/index.html",
+      "sha256": "e807faa79f9dd723b0ec5ad9d55995ce7b7ff00ce7fbf0ce1e737bd8983e3525"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%B4%AD%E4%B9%B0surface-laptop-go%E7%9A%84%E5%BE%AE%E8%BD%AF%E6%95%99%E8%82%B2%E5%95%86%E5%9F%8E%E4%B8%8E%E5%A4%A9%E7%8C%AB%E6%97%97%E8%88%B0%E5%BA%97%E4%BB%B7%E6%A0%BC%E5%B7%AE%E5%BC%82/",
+      "target": ".recovery-public-stage/学生购买surface-laptop-go的微软教育商城与天猫旗舰店价格差异/index.html",
+      "sha256": "16088d67602d0a227e5818b8f7280f961ec8f532cad2bb2ba3cd304f74481930"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E5%9C%A8%E4%BA%AC%E4%B8%9C%E6%A0%A1%E5%9B%AD%E4%B8%8E%E6%B7%98%E5%AE%9D%E6%A0%A1%E5%9B%AD%E7%9A%84%E5%B7%AE%E5%BC%82%E4%B8%8E%E4%BA%92%E9%80%9A%E6%80%A7%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/学生身份认证在京东校园与淘宝校园的差异与互通性分析/index.html",
+      "sha256": "e8f7db750536f3b7911b359f6421eec6fe0fc22ff5ad44ab7d6f8d146ad05fd8"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E5%9C%A8%E5%90%84%E5%A4%A7%E6%8A%98%E6%89%A3%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%9A%84%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%B8%B8%E8%A7%81%E9%A9%B3%E5%9B%9E%E5%8E%9F%E5%9B%A0/",
+      "target": ".recovery-public-stage/学生身份认证在各大折扣平台上的完整流程与常见驳回原因/index.html",
+      "sha256": "10850f46e79c0c81972b302ff8da0e3668c6238cf89bd252bebc4a02ce37daca"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E5%A4%B1%E8%B4%A5%E5%90%8E%E7%9A%84%E7%94%B3%E8%AF%89%E6%B5%81%E7%A8%8B%E4%B8%8E%E4%BA%BA%E5%B7%A5%E5%AE%A1%E6%A0%B8%E9%80%9A%E9%81%93%E6%B1%87%E6%80%BB/",
+      "target": ".recovery-public-stage/学生身份认证失败后的申诉流程与人工审核通道汇总/index.html",
+      "sha256": "94d46b65814d9ccc1daf5e977d243ef75b08d3a128257facbb586899aefc6da4"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%BB%BD%E8%BF%87%E6%9C%9F%E5%90%8E%E7%BB%A7%E7%BB%AD%E4%BD%BF%E7%94%A8%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E7%9A%84%E5%90%88%E8%A7%84%E9%A3%8E%E9%99%A9%E4%B8%8E%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88/",
+      "target": ".recovery-public-stage/学生身份过期后继续使用教育优惠的合规风险与替代方案/index.html",
+      "sha256": "935b230fb14978ca29e9b4caece94892e43eb79ebd07429a29f927be422c1468"
+    },
+    {
+      "url": "https://discount.org.cn/%E5%AE%9E%E6%97%B6%E6%8A%98%E6%89%A3%E6%8E%A8%E9%80%81%E6%9C%8D%E5%8A%A1%E5%AF%B9%E6%AF%94telegram%E9%A2%91%E9%81%93-vs-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-vs-app%E6%8E%A8%E9%80%81/",
+      "target": ".recovery-public-stage/实时折扣推送服务对比telegram频道-vs-微信公众号-vs-app推送/index.html",
+      "sha256": "df821ee924adfb09c8d079d83b78e2570a40aa849543b5053993799ab38b553b"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF%E7%9C%9F%E4%BC%AA%E9%89%B4%E5%88%AB%E6%8C%87%E5%8D%97%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E8%99%9A%E5%81%87%E9%99%8D%E4%BB%B7%E9%99%B7%E9%98%B1/",
+      "target": ".recovery-public-stage/折扣信息真伪鉴别指南如何避免虚假降价陷阱/index.html",
+      "sha256": "dc62a91916b2b0a1cf492f05ffccacd4d9effa42d89f8332afca6e63450c8108"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E5%B7%A5%E5%85%B7%E7%9A%84%E9%80%9A%E7%9F%A5%E6%97%B6%E6%95%88%E6%80%A7%E5%AF%B9%E6%AF%94%E8%B0%81%E6%9C%80%E5%85%88%E6%8E%A8%E9%80%81%E7%A7%92%E6%9D%80%E4%BF%A1%E6%81%AF/",
+      "target": ".recovery-public-stage/折扣信息聚合工具的通知时效性对比谁最先推送秒杀信息/index.html",
+      "sha256": "6527af5ead4737906b8e4131729bbf4d1b6badb151d0b968a9055dabb7dea07e"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E5%B9%B3%E5%8F%B0%E5%AF%BC%E8%88%AA%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9C%80%E5%85%A8%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF%E5%85%A5%E5%8F%A3%E6%95%B4%E7%90%86/",
+      "target": ".recovery-public-stage/折扣信息聚合平台导航中国大陆最全优惠信息入口整理/index.html",
+      "sha256": "46bd568037f75b3ac6b7e792d1576a065e56772d3762c05cfec0194a72f728dc"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%8A%98%E6%89%A3%E6%8E%A8%E9%80%81%E5%B7%A5%E5%85%B7%E7%9A%84%E6%99%BA%E8%83%BD%E5%8C%96%E7%A8%8B%E5%BA%A6%E5%AF%B9%E6%AF%94%E4%BA%BA%E5%B7%A5%E7%B2%BE%E9%80%89-vs-ai%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/",
+      "target": ".recovery-public-stage/折扣推送工具的智能化程度对比人工精选-vs-ai推荐算法/index.html",
+      "sha256": "af0ee8424cb0cb4e055491d3033af10b3dc2d11143b44393c366385e996dc494"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%8A%98%E6%89%A3%E7%A4%BE%E5%8C%BA%E6%B4%BB%E8%B7%83%E5%BA%A6%E6%8E%92%E5%90%8D%E8%B1%86%E7%93%A3%E6%8A%A0%E9%97%A8%E5%B0%8F%E7%BB%84-vs-%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E8%AF%84%E8%AE%BA%E5%8C%BA/",
+      "target": ".recovery-public-stage/折扣社区活跃度排名豆瓣抠门小组-vs-什么值得买评论区/index.html",
+      "sha256": "d43b2a42f95abca61b55a725e9701b055f709d5b099716a8f57f32c4932bf4d9"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%8A%98%E6%89%A3%E7%A4%BE%E5%8C%BA%E7%94%A8%E6%88%B7%E5%88%86%E4%BA%AB%E5%86%85%E5%AE%B9%E7%9A%84%E5%8F%AF%E4%BF%A1%E5%BA%A6%E8%AF%84%E4%BC%B0%E6%A1%86%E6%9E%B6%E4%BB%8E%E7%82%B9%E8%B5%9E%E5%88%B0%E5%AE%9E%E9%99%85%E9%AA%8C%E8%AF%81/",
+      "target": ".recovery-public-stage/折扣社区用户分享内容的可信度评估框架从点赞到实际验证/index.html",
+      "sha256": "3c33d9c6b32696cbad5869404ebd481c27851500d074a760232c227b7ec6b176"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%8A%98%E6%89%A3%E7%BD%91%E7%AB%99%E5%A4%87%E6%A1%88%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2%E6%96%B9%E6%B3%95%E8%AF%86%E5%88%AB%E6%AD%A3%E8%A7%84%E4%B8%8E%E8%AF%88%E9%AA%97%E7%BD%91%E7%AB%99%E7%9A%84%E5%85%B3%E9%94%AE%E6%AD%A5%E9%AA%A4/",
+      "target": ".recovery-public-stage/折扣网站备案信息查询方法识别正规与诈骗网站的关键步骤/index.html",
+      "sha256": "323c8c8528ee13319b7305559bb979e7930ef2c957e9f8c3d920fae6167c8173"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%8A%98%E6%89%A3app%E6%8E%A8%E9%80%81%E9%A2%91%E7%8E%87%E4%B8%8E%E6%89%93%E6%89%B0%E7%A8%8B%E5%BA%A6%E5%B9%B3%E8%A1%A1%E6%B5%8B%E8%AF%95%E4%BA%94%E6%AC%BE%E4%B8%BB%E6%B5%81%E5%B7%A5%E5%85%B7%E6%A8%AA%E8%AF%84/",
+      "target": ".recovery-public-stage/折扣app推送频率与打扰程度平衡测试五款主流工具横评/index.html",
+      "sha256": "8f1b8fa23268cba397861f84832cdc474cc8a0d8e4d7adedb8804c2ef250397e"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%9C%BA%E8%BD%A6%E5%88%86%E6%9C%9F%E8%B4%AD%E8%BD%A6%E5%85%A8%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90%E5%AD%A6%E7%94%9F%E7%BE%A4%E4%BD%93%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E6%9C%80%E4%BD%8E%E5%88%A9%E7%8E%87/",
+      "target": ".recovery-public-stage/机车分期购车全流程解析学生群体如何申请最低利率/index.html",
+      "sha256": "54aade3457bc6f14d6c5da62d42064e1b5483356097ba6a73aa4b300646b35a9"
+    },
+    {
+      "url": "https://discount.org.cn/%E6%9C%BA%E8%BD%A6%E5%88%86%E6%9C%9F%E8%B4%AD%E8%BD%A6%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94%E6%98%A5%E9%A3%8E%E5%8A%A8%E5%8A%9B-vs-%E9%92%B1%E6%B1%9F%E6%91%A9%E6%89%98%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96/",
+      "target": ".recovery-public-stage/机车分期购车方案对比春风动力-vs-钱江摩托学生优惠政策/index.html",
+      "sha256": "08de5707a44015148ae23961ba149ed94d38ee703e64f25c9b5faf6384980a0e"
+    },
+    {
+      "url": "https://discount.org.cn/%E8%8B%B9%E6%9E%9C%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E8%BF%94%E6%A0%A1%E5%AD%A3%E8%B5%A0%E5%93%81%E6%B4%BB%E5%8A%A8%E5%8E%86%E5%8F%B2%E8%A7%84%E5%BE%8B%E4%B8%8E2025%E5%B9%B4%E9%A2%84%E6%B5%8B/",
+      "target": ".recovery-public-stage/苹果教育优惠返校季赠品活动历史规律与2025年预测/index.html",
+      "sha256": "169223c220027544fa765d784c44152bc52d48fe0261e8c456c8483692937a03"
+    },
+    {
+      "url": "https://discount.org.cn/%E8%8B%B9%E6%9E%9Cpro-app%E6%95%99%E8%82%B2%E5%A5%97%E8%A3%85%E4%BB%B7%E5%80%BC%E5%88%86%E6%9E%90final-cut-pro%E4%B8%8Elogic-pro%E5%AD%A6%E7%94%9F%E4%BB%B7/",
+      "target": ".recovery-public-stage/苹果pro-app教育套装价值分析final-cut-pro与logic-pro学生价/index.html",
+      "sha256": "fac93e3469c3331b4f47d5e0ad369c8dfa61f2bd7a0fbb3d9523dfe8f487197d"
+    },
+    {
+      "url": "https://discount.org.cn/%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%8A%98%E6%89%A3app%E5%AE%9E%E6%B5%8B%E6%8E%A8%E8%8D%902025%E5%B9%B4%E5%80%BC%E5%BE%97%E5%AE%89%E8%A3%85%E7%9A%84%E7%9C%81%E9%92%B1%E5%B7%A5%E5%85%B7/",
+      "target": ".recovery-public-stage/高性价比折扣app实测推荐2025年值得安装的省钱工具/index.html",
+      "sha256": "66fd31841e27a194039f67c187089e3f582a3cf94eb81ea7775c71bff7547705"
+    },
+    {
+      "url": "https://discount.org.cn/%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E9%99%8D%E5%99%AA%E8%80%B3%E6%9C%BA%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E6%B8%A0%E9%81%93%E5%AF%B9%E6%AF%94%E4%BB%8E%E5%AE%98%E7%BD%91%E5%88%B0%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B4/",
+      "target": ".recovery-public-stage/高性价比降噪耳机学生折扣渠道对比从官网到拼多多百亿补贴/index.html",
+      "sha256": "33a94a9861ac92ead92e6af4877dfae873dcb173172f22f5a83fd37da0d82385"
+    },
+    {
+      "url": "https://discount.org.cn/2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E6%96%B9%E6%A1%88%E6%A8%AA%E5%90%91%E5%AF%B9%E6%AF%94%E8%B0%81%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9C%81%E9%92%B1/",
+      "target": ".recovery-public-stage/2025年中国大陆高校学生优惠方案横向对比谁才是真省钱/index.html",
+      "sha256": "3433efadb3fe487c880b482430db884dcad34d8bbfa8e9b9241748835650cf21"
+    },
+    {
+      "url": "https://discount.org.cn/_astro/_slug_.LpUo8rYe.css",
+      "target": ".recovery-public-stage/_astro/_slug_.LpUo8rYe.css",
+      "sha256": "a71b3bae6aebdc63858823494b1ab40d5d7e410e90efc12dc433cdbb926fd09e"
+    },
+    {
+      "url": "https://discount.org.cn/about",
+      "target": ".recovery-public-stage/about.html",
+      "sha256": "78db4273e4aa89fa72b354a8ab333c637a2a81849b3c846d0acadcd5f81bbb14"
+    },
+    {
+      "url": "https://discount.org.cn/adobe-creative-cloud%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E8%BD%AF%E4%BB%B6%E6%88%90%E6%9C%AC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/adobe-creative-cloud学生订阅与国产替代软件成本对比/index.html",
+      "sha256": "04e091dbb89bb8a61143428b9ca65e2e93faf4595ebdcbf10eeeca8e42f776dd"
+    },
+    {
+      "url": "https://discount.org.cn/airtable%E5%AD%A6%E7%94%9F%E6%96%B9%E6%A1%88%E4%B8%8E%E5%9B%BD%E5%86%85%E7%BB%B4%E6%A0%BC%E8%A1%A8%E6%98%8E%E9%81%93%E4%BA%91%E5%85%8D%E8%B4%B9%E6%94%BF%E7%AD%96%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/airtable学生方案与国内维格表明道云免费政策对比/index.html",
+      "sha256": "ca211fb875d48e25a5b2b3a1a9adc6a31b12a386b3b0eafe6b5f818f3b011d40"
+    },
+    {
+      "url": "https://discount.org.cn/alfred%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85utoolslistary%E6%95%99%E8%82%B2%E7%89%88%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/alfred学生订阅与国内utoolslistary教育版效率工具对比/index.html",
+      "sha256": "292de978c7604e06f763ce17eaa7df237f5f572b4b56769e7722a741b03bdaa0"
+    },
+    {
+      "url": "https://discount.org.cn/apple%E6%95%99%E8%82%B2%E5%95%86%E5%BA%97macbook%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E4%B8%8E%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B/",
+      "target": ".recovery-public-stage/apple教育商店macbook学生折扣与京东自营价格对比实测/index.html",
+      "sha256": "11c8dd6ec87243be3897f1c4b3ee3ea85c103a35050e7c086ef3c89bdb19e57e"
+    },
+    {
+      "url": "https://discount.org.cn/arc%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AD%A6%E7%94%9F%E4%B8%93%E5%B1%9E%E9%82%80%E8%AF%B7%E4%B8%8Eedgechrome%E6%95%99%E8%82%B2%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/arc浏览器学生专属邀请与edgechrome教育功能对比/index.html",
+      "sha256": "98f2760ffb314e22fd3d8e66bdd6f6e760e4026ce5641c0163b8c666b7298a00"
+    },
+    {
+      "url": "https://discount.org.cn/autodesk%E6%95%99%E8%82%B2%E7%89%88%E5%85%8D%E8%B4%B9%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%9B%BD%E4%BA%A7cad%E5%B9%B3%E5%8F%B0%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/autodesk教育版免费软件与国产cad平台功能对比/index.html",
+      "sha256": "d5016f1fccab167777a59a331c317c4b1c48bba80d71e39d216f5baff790f61f"
+    },
+    {
+      "url": "https://discount.org.cn/bartender%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85hidden-bar%E7%AD%89%E8%8F%9C%E5%8D%95%E6%A0%8F%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/bartender学生订阅与国内hidden-bar等菜单栏管理工具对比/index.html",
+      "sha256": "fe49acbac87d91cbaa4745dade6d656ecb20632b260c74ae4adf5cbb14fb10cf"
+    },
+    {
+      "url": "https://discount.org.cn/canva-pro%E6%95%99%E8%82%B2%E7%89%88%E4%B8%8E%E5%9B%BD%E5%86%85%E7%A8%BF%E5%AE%9A%E8%AE%BE%E8%AE%A1%E4%BC%9A%E5%91%98%E4%BB%B7%E6%A0%BC%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/canva-pro教育版与国内稿定设计会员价格功能对比/index.html",
+      "sha256": "0ac061aa96780acd53f4679fd90fa8946e03faf532f4b0a33a621d78a456690d"
+    },
+    {
+      "url": "https://discount.org.cn/cleanmymac%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E8%85%BE%E8%AE%AF%E6%9F%A0%E6%AA%AC%E6%B8%85%E7%90%86%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/cleanmymac学生订阅与国内腾讯柠檬清理教育版对比/index.html",
+      "sha256": "acb0d9bd271caac6a4a6b0a7323dbf6522c8469b55a313deedf82044b11c6318"
+    },
+    {
+      "url": "https://discount.org.cn/coursera%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc%E5%AD%A6%E5%A0%82%E5%9C%A8%E7%BA%BF%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/coursera学生订阅与国内中国大学mooc学堂在线对比/index.html",
+      "sha256": "755c37d959627a9a609ca13c8b69a70ee7a469fd047a89335f77e971da7a09d1"
+    },
+    {
+      "url": "https://discount.org.cn/datacamp%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E5%92%8C%E9%B2%B8%E7%A4%BE%E5%8C%BA%E5%A4%A9%E6%B1%A0%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/datacamp学生订阅与国内和鲸社区天池大数据学习资源对比/index.html",
+      "sha256": "5f45fe5aef3f4b3d39f5a724216d59ab99dc1c4a4938697c231fada5e5ca182f"
+    },
+    {
+      "url": "https://discount.org.cn/drafts%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E5%A4%87%E5%BF%98%E5%BD%95%E5%A2%9E%E5%BC%BA%E5%B7%A5%E5%85%B7%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/drafts学生订阅与国内备忘录增强工具教育版对比/index.html",
+      "sha256": "4e57de7258e2e59c00a325451eca9e2c2b9e14514c2c2d8bb9e78626110125f5"
+    },
+    {
+      "url": "https://discount.org.cn/en/10-surprising-ways-students-can-save-on-groceries-without-clipping-a-single-coup/",
+      "target": ".recovery-public-stage/en/10-surprising-ways-students-can-save-on-groceries-without-clipping-a-single-coup/index.html",
+      "sha256": "f105b7bf76a34e0f74db01afa474c7d81c485f1d95caa395bd40f1955b7b577e"
+    },
+    {
+      "url": "https://discount.org.cn/en/2025-guide-to-stacking-student-discounts-at-major-us-theme-parks-like-a-pro/",
+      "target": ".recovery-public-stage/en/2025-guide-to-stacking-student-discounts-at-major-us-theme-parks-like-a-pro/index.html",
+      "sha256": "b4c1a18767b067979388bff381f39d8add4c430d1aa10c238d3756ab44c5184c"
+    },
+    {
+      "url": "https://discount.org.cn/en/2026-breakdown-of-fees-charged-by-different-campus-dining-plans-and-how-to-pick/",
+      "target": ".recovery-public-stage/en/2026-breakdown-of-fees-charged-by-different-campus-dining-plans-and-how-to-pick/index.html",
+      "sha256": "54448a3d2895c33975212d7ed04c1f6d3ad5189dc39b3bf20b6db2c48f1a8c2a"
+    },
+    {
+      "url": "https://discount.org.cn/en/2026-guide-to-maximizing-rewards-on-your-student-credit-card-without-paying-any/",
+      "target": ".recovery-public-stage/en/2026-guide-to-maximizing-rewards-on-your-student-credit-card-without-paying-any/index.html",
+      "sha256": "afa4eedd28b8cb4c9d68c519046d6dc08a3ab04da2519709a452a4c1698219bb"
+    },
+    {
+      "url": "https://discount.org.cn/en/2026-review-of-budgeting-apps-specifically-designed-for-college-students-with-ir/",
+      "target": ".recovery-public-stage/en/2026-review-of-budgeting-apps-specifically-designed-for-college-students-with-ir/index.html",
+      "sha256": "aa5d05a689018a87dda7f0d825591b55a977c6936ecb7532f8c923b982771bb6"
+    },
+    {
+      "url": "https://discount.org.cn/en/2026-trends-in-tuition-payment-plans-that-can-help-you-avoid-interest-on-your-ba/",
+      "target": ".recovery-public-stage/en/2026-trends-in-tuition-payment-plans-that-can-help-you-avoid-interest-on-your-ba/index.html",
+      "sha256": "77e15246068609e814c3b1a976ec60f13035ee42706801f3daf7f7433929d567"
+    },
+    {
+      "url": "https://discount.org.cn/en/2026-update-on-which-us-airlines-offer-unadvertised-student-fare-discounts/",
+      "target": ".recovery-public-stage/en/2026-update-on-which-us-airlines-offer-unadvertised-student-fare-discounts/index.html",
+      "sha256": "4fd8435c51848d17edabaa7e55600d90b0c9ceaa563b9fcb508b9794e02d301e"
+    },
+    {
+      "url": "https://discount.org.cn/en/7-lesser-known-amazon-prime-student-perks-that-go-beyond-free-two-day-shipping/",
+      "target": ".recovery-public-stage/en/7-lesser-known-amazon-prime-student-perks-that-go-beyond-free-two-day-shipping/index.html",
+      "sha256": "ef8c62c8ae16ef931175eefc23ea4c1020eb5a9ecf98c10183d11f9cad5eac5f"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-different-loan-repayment-plans-for-graduates-and-which-one-saves-the/",
+      "target": ".recovery-public-stage/en/analysis-of-different-loan-repayment-plans-for-graduates-and-which-one-saves-the/index.html",
+      "sha256": "ba39771cad7b66237361b6d6cc61957ca358ef70b4c420d7ff521e33d6799366"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-how-much-money-you-can-save-by-eating-vegetarian-meals-for-a-full-se/",
+      "target": ".recovery-public-stage/en/analysis-of-how-much-money-you-can-save-by-eating-vegetarian-meals-for-a-full-se/index.html",
+      "sha256": "ffedc0c3a4a4d6cc9081857b055a7212ebc18f067a163ecd3b6fefc01f267cc6"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-how-much-money-you-can-save-by-taking-public-transit-instead-of-driv/",
+      "target": ".recovery-public-stage/en/analysis-of-how-much-money-you-can-save-by-taking-public-transit-instead-of-driv/index.html",
+      "sha256": "3942c7eebd741235c64eec8ea7ee008bbb358070a9c139a0c01045c1df45bbfb"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-how-much-you-can-save-by-using-a-library-for-entertainment-instead-o/",
+      "target": ".recovery-public-stage/en/analysis-of-how-much-you-can-save-by-using-a-library-for-entertainment-instead-o/index.html",
+      "sha256": "02473fa14ba6fad748ea92cd7ce9733885806d837815f55d1db44f1933fe77ee"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-streaming-service-bundles-that-offer-the-lowest-per-month-cost-for-s/",
+      "target": ".recovery-public-stage/en/analysis-of-streaming-service-bundles-that-offer-the-lowest-per-month-cost-for-s/index.html",
+      "sha256": "e2c4d07e48d4f81363c7548817a293249a7f372c88cc27e0652309c812222048"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-the-cost-difference-between-healthy-and-unhealthy-eating-for-a-week/",
+      "target": ".recovery-public-stage/en/analysis-of-the-cost-difference-between-healthy-and-unhealthy-eating-for-a-week/index.html",
+      "sha256": "6eddf394469d0ae4489517d77ed2da1e09db3dabb9c86f1c9e427e9ea02f69b2"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-the-cost-differences-between-generic-and-brand-name-prescription-med/",
+      "target": ".recovery-public-stage/en/analysis-of-the-cost-differences-between-generic-and-brand-name-prescription-med/index.html",
+      "sha256": "62a55d607e9b51c9c7a8aebf6a31aa37c7d1e022f0aa0f32cdd0b76b6c3b5601"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-the-cost-of-owning-a-car-vs-using-public-transit-for-a-typical-commu/",
+      "target": ".recovery-public-stage/en/analysis-of-the-cost-of-owning-a-car-vs-using-public-transit-for-a-typical-commu/index.html",
+      "sha256": "392db9c009cc31c1030341faf0440d5895c1f157eeb26fb6b229c0c4fd08f12f"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-the-financial-benefits-of-living-with-parents-vs-renting-during-grad/",
+      "target": ".recovery-public-stage/en/analysis-of-the-financial-benefits-of-living-with-parents-vs-renting-during-grad/index.html",
+      "sha256": "042ab2005ea974bcdf90dda08a7369bbcefd9abde2c3786823f485465949caab"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-the-financial-impact-of-dropping-a-class-after-the-refund-deadline-h/",
+      "target": ".recovery-public-stage/en/analysis-of-the-financial-impact-of-dropping-a-class-after-the-refund-deadline-h/index.html",
+      "sha256": "a2f35b329c4c89a8fa1e7ae3caf257444b3d46f51bd65068b33eff5146a1578f"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-the-hidden-fees-in-popular-student-checking-accounts-and-how-to-avoi/",
+      "target": ".recovery-public-stage/en/analysis-of-the-hidden-fees-in-popular-student-checking-accounts-and-how-to-avoi/index.html",
+      "sha256": "6c67b2729cbc6fd830e5d164a58d1df80e93008a453aa17f900eb017aafa8162"
+    },
+    {
+      "url": "https://discount.org.cn/en/analysis-of-the-true-cost-of-a-university-dining-plan-vs-buying-your-own-food-pe/",
+      "target": ".recovery-public-stage/en/analysis-of-the-true-cost-of-a-university-dining-plan-vs-buying-your-own-food-pe/index.html",
+      "sha256": "5f9893c68b38fccdb79dbcb853172278b448d76884308e276dcaf7a2159c10ff"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-apps-for-splitting-group-expenses-with-roommates-and-tracking-shared-bills/",
+      "target": ".recovery-public-stage/en/best-apps-for-splitting-group-expenses-with-roommates-and-tracking-shared-bills/index.html",
+      "sha256": "880b0f682580db2266af9b72a9694405e3380079f635002aa8db769a1ae881a2"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-methods-for-building-credit-history-without-taking-on-debt-as-a-responsible/",
+      "target": ".recovery-public-stage/en/best-methods-for-building-credit-history-without-taking-on-debt-as-a-responsible/index.html",
+      "sha256": "c0f0d3efda54f3ed48497be5188f05ea6a12564894981e02ebc08b3317b79582"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-methods-for-tracking-your-daily-spending-without-needing-a-fancy-app-or-sof/",
+      "target": ".recovery-public-stage/en/best-methods-for-tracking-your-daily-spending-without-needing-a-fancy-app-or-sof/index.html",
+      "sha256": "79db3fc6b9cb00da8cada70f39dd280ceccd0e47d5d1d8aeaa110e91ef33256c"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-methods-for-tracking-your-net-worth-as-a-college-student-with-simple-free-t/",
+      "target": ".recovery-public-stage/en/best-methods-for-tracking-your-net-worth-as-a-college-student-with-simple-free-t/index.html",
+      "sha256": "2d2684d7644126f1008ceb091e8418088eb535f8fb896eb341ae62df52afbdbe"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-strategies-for-managing-variable-income-from-freelance-work-while-maintaini/",
+      "target": ".recovery-public-stage/en/best-strategies-for-managing-variable-income-from-freelance-work-while-maintaini/index.html",
+      "sha256": "813e7591ee42b7273ac87257f45372fc247c85de88c17c37304d9f72fb06e8f0"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-strategies-for-reducing-food-waste-at-home-and-saving-money-on-your-monthly/",
+      "target": ".recovery-public-stage/en/best-strategies-for-reducing-food-waste-at-home-and-saving-money-on-your-monthly/index.html",
+      "sha256": "564077fdfa18a3550f5cec08bfbfbae6d72eeaaa3d7127c3edf9c85602b4e23b"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-strategies-for-reducing-your-electric-bill-in-a-shared-apartment-with-multi/",
+      "target": ".recovery-public-stage/en/best-strategies-for-reducing-your-electric-bill-in-a-shared-apartment-with-multi/index.html",
+      "sha256": "f9adc2cf3e78410ccb47dfa07f6097370441074208ade4f7db5fc7f69eeee8e6"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-strategies-for-saving-money-on-laundry-while-living-in-a-dorm-with-paid-mac/",
+      "target": ".recovery-public-stage/en/best-strategies-for-saving-money-on-laundry-while-living-in-a-dorm-with-paid-mac/index.html",
+      "sha256": "9af72f6531d157ae2764f46e47bf6e1ee5b24e0201068a8150ab581a5d5be3bf"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-time-of-year-to-buy-a-laptop-for-college-based-on-historical-price-drops/",
+      "target": ".recovery-public-stage/en/best-time-of-year-to-buy-a-laptop-for-college-based-on-historical-price-drops/index.html",
+      "sha256": "4b2925b7147837fb8cbc7cd7a3d86e79a1a37ab3568806750f8279def311b593"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-time-to-purchase-airline-tickets-for-holiday-travel-based-on-historical-pri/",
+      "target": ".recovery-public-stage/en/best-time-to-purchase-airline-tickets-for-holiday-travel-based-on-historical-pri/index.html",
+      "sha256": "f2a23a5ff6b03330bb2530630075659e306c9c24695bdeb8fa8d327a841f948b"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-time-to-purchase-new-textbooks-for-next-semester-based-on-price-drops-after/",
+      "target": ".recovery-public-stage/en/best-time-to-purchase-new-textbooks-for-next-semester-based-on-price-drops-after/index.html",
+      "sha256": "c206738a3cb9ff7f8bf3bdaeff6226ac3be8c74753da4d1efb5eabed0d74f91e"
+    },
+    {
+      "url": "https://discount.org.cn/en/best-ways-to-save-money-on-formal-wear-for-job-interviews-and-career-fairs-witho/",
+      "target": ".recovery-public-stage/en/best-ways-to-save-money-on-formal-wear-for-job-interviews-and-career-fairs-witho/index.html",
+      "sha256": "2b3d383defc3b899b6a6b01dc3578a7024ec45c88c250587ce3b7963ed5f3a3a"
+    },
+    {
+      "url": "https://discount.org.cn/en/can-international-students-access-us-only-discounts-with-a-vpn-and-a-valid-id/",
+      "target": ".recovery-public-stage/en/can-international-students-access-us-only-discounts-with-a-vpn-and-a-valid-id/index.html",
+      "sha256": "90cf12c09cbb9db536bf32279b3198ef7dece09500aa2d6f39c156a59486b4f9"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-for-setting-up-automatic-savings-transfers-that-you-wont-notice-missin/",
+      "target": ".recovery-public-stage/en/checklist-for-setting-up-automatic-savings-transfers-that-you-wont-notice-missin/index.html",
+      "sha256": "abde3ad5734caa4cd535b38cf4ec48dc4ec4f6fd20aa4cd8a4d4c6f62a997216"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-documents-needed-to-apply-for-a-student-loan-refinancing-approval/",
+      "target": ".recovery-public-stage/en/checklist-of-documents-needed-to-apply-for-a-student-loan-refinancing-approval/index.html",
+      "sha256": "2328461a1a696d8d5f2207200898571f74bd76654f0cc3cb6a0fed4cefadf04f"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-documents-needed-to-refinance-your-student-loans-and-potentially-lo/",
+      "target": ".recovery-public-stage/en/checklist-of-documents-needed-to-refinance-your-student-loans-and-potentially-lo/index.html",
+      "sha256": "fd726c6e9e16694f1ac138901085fabc038bbaa2dcf7eebde45ec5655a131e4e"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-essential-financial-documents-every-college-freshman-should-have-or/",
+      "target": ".recovery-public-stage/en/checklist-of-essential-financial-documents-every-college-freshman-should-have-or/index.html",
+      "sha256": "c93ad442ef49ee1c4abcaf70de761bbded28318045e84884b1b43130fa4fdb91"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-free-academic-tutoring-services-available-on-campus-that-replace-pa/",
+      "target": ".recovery-public-stage/en/checklist-of-free-academic-tutoring-services-available-on-campus-that-replace-pa/index.html",
+      "sha256": "aba53a558d3e34eb55abb4dc24e44bd45195e3fb532342bad6082ea33bb7b72e"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-free-career-counseling-and-resume-review-services-provided-by-your/",
+      "target": ".recovery-public-stage/en/checklist-of-free-career-counseling-and-resume-review-services-provided-by-your/index.html",
+      "sha256": "41ecb534fc045ff99a943fb4f265c34dfa7f9b3b392deecbd9e539f945c3ffa7"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-free-career-development-resources-provided-by-your-university-that/",
+      "target": ".recovery-public-stage/en/checklist-of-free-career-development-resources-provided-by-your-university-that/index.html",
+      "sha256": "c13e53503a27df939a3e13ca80a31cee0005815018218c2e71164c832b713435"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-free-health-services-available-on-campus-that-most-students-never-t/",
+      "target": ".recovery-public-stage/en/checklist-of-free-health-services-available-on-campus-that-most-students-never-t/index.html",
+      "sha256": "dcc74c0bfa0f55a2ceceab9bd0e226f3f4b450f86e9a1a6e936fef6b8dbb741b"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-free-legal-documents-and-templates-available-to-students-through-un/",
+      "target": ".recovery-public-stage/en/checklist-of-free-legal-documents-and-templates-available-to-students-through-un/index.html",
+      "sha256": "6978a30ba3a79ada9d2d0dcded00be26045d52654bb914991edd4b12ba1cc4c7"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-free-mental-health-resources-available-to-students-that-require-no/",
+      "target": ".recovery-public-stage/en/checklist-of-free-mental-health-resources-available-to-students-that-require-no/index.html",
+      "sha256": "f19b2e6a99013ada09dc152eecad88c05be4e96e064cbb3300544cdd3b67d318"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-free-software-available-through-university-licenses-that-replace-ex/",
+      "target": ".recovery-public-stage/en/checklist-of-free-software-available-through-university-licenses-that-replace-ex/index.html",
+      "sha256": "94a62c4c4526a918dbc78a0aed93972be01006d661aed1c0ccb71661eb75414e"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-free-tax-filing-software-options-available-to-students-with-simple/",
+      "target": ".recovery-public-stage/en/checklist-of-free-tax-filing-software-options-available-to-students-with-simple/index.html",
+      "sha256": "70c980c87a1270cbdd42f217adf5e7c36ca8c2802bffbdbe94c2a0eefa8cdf9f"
+    },
+    {
+      "url": "https://discount.org.cn/en/checklist-of-items-you-can-buy-used-to-save-money-and-where-to-find-them-safely/",
+      "target": ".recovery-public-stage/en/checklist-of-items-you-can-buy-used-to-save-money-and-where-to-find-them-safely/index.html",
+      "sha256": "8b396e900898b7fdc98d397b93443abcd0325a1ad1549a5cb28a184b52ad6116"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-errors-in-fafsa-applications-that-delay-your-financial-aid-and-how-to-cor/",
+      "target": ".recovery-public-stage/en/common-errors-in-fafsa-applications-that-delay-your-financial-aid-and-how-to-cor/index.html",
+      "sha256": "bb0bf8773f2c8099e2b1feed11e6c95c0ecadf3dfe42c9e2438b648a822aa498"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-misconceptions-about-student-loan-forgiveness-programs-that-could-cost-yo/",
+      "target": ".recovery-public-stage/en/common-misconceptions-about-student-loan-forgiveness-programs-that-could-cost-yo/index.html",
+      "sha256": "25715158e4b760290f5260606df49e4715086eb318ee0c59b8f78cafab94da48"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-mistakes-people-make-when-trying-to-transfer-credit-card-balances-to-a-ne/",
+      "target": ".recovery-public-stage/en/common-mistakes-people-make-when-trying-to-transfer-credit-card-balances-to-a-ne/index.html",
+      "sha256": "11bf2cc29b8f88dd4863f38770646aeadc1b0f6c7148c9a6ead101ca7c6f965e"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-mistakes-when-using-multiple-coupons-on-a-single-purchase-and-how-to-avoi/",
+      "target": ".recovery-public-stage/en/common-mistakes-when-using-multiple-coupons-on-a-single-purchase-and-how-to-avoi/index.html",
+      "sha256": "ef9dd9ff7189d868a9dd802304a619cc8788ee4bad81c9e54b994aa04b56708c"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-misunderstandings-about-how-credit-card-interest-works-and-how-to-avoid-p/",
+      "target": ".recovery-public-stage/en/common-misunderstandings-about-how-credit-card-interest-works-and-how-to-avoid-p/index.html",
+      "sha256": "98e8cec1f45572717d3db68bbe144f027016f173cb895b38e70114af71c494b6"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-myths-about-using-a-debit-card-for-all-purchases-and-why-credit-can-be-be/",
+      "target": ".recovery-public-stage/en/common-myths-about-using-a-debit-card-for-all-purchases-and-why-credit-can-be-be/index.html",
+      "sha256": "7cc0d14e23330fec36bb5330730ba71615711cf3f618ee9add10d9479aeac8ae"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-pitfalls-in-the-home-buying-process-for-graduate-students-and-how-to-avoi/",
+      "target": ".recovery-public-stage/en/common-pitfalls-in-the-home-buying-process-for-graduate-students-and-how-to-avoi/index.html",
+      "sha256": "835163896b1de61e0d144207ac95b3f88f9572d9c444362b65a967756a088a9a"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-pitfalls-in-the-scholarship-application-process-that-reduce-your-chances/",
+      "target": ".recovery-public-stage/en/common-pitfalls-in-the-scholarship-application-process-that-reduce-your-chances/index.html",
+      "sha256": "015e0a83b01cd51c3fe2947b573b94b7e907847230763a5ee35ba744edb7ddcc"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-pitfalls-when-applying-for-scholarships-late-in-the-school-year-and-how-t/",
+      "target": ".recovery-public-stage/en/common-pitfalls-when-applying-for-scholarships-late-in-the-school-year-and-how-t/index.html",
+      "sha256": "f4c76945e27f6e8d447ac0a5f03d3fc4efc3d58fcdcf8bb0955384b38fb59faa"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-reasons-why-your-credit-card-application-gets-denied-and-how-to-improve-y/",
+      "target": ".recovery-public-stage/en/common-reasons-why-your-credit-card-application-gets-denied-and-how-to-improve-y/index.html",
+      "sha256": "6c681457b85df7bbedce38afff1aa705687cd9d11eea70b96d58d2735b940526"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-reasons-why-your-online-discount-code-shows-as-invalid-and-how-to-trouble/",
+      "target": ".recovery-public-stage/en/common-reasons-why-your-online-discount-code-shows-as-invalid-and-how-to-trouble/index.html",
+      "sha256": "7b22455d6550ba29b289bc0316148728b61b9b84b3a9b9d1642eb5543b47b75c"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-reasons-why-your-refund-check-from-the-university-is-delayed-and-how-to-s/",
+      "target": ".recovery-public-stage/en/common-reasons-why-your-refund-check-from-the-university-is-delayed-and-how-to-s/index.html",
+      "sha256": "589275c9979955eb41d0c617562740e6bdb5ae2be52ed73acbe47760edaea797"
+    },
+    {
+      "url": "https://discount.org.cn/en/common-reasons-why-your-student-loan-application-gets-rejected-and-how-to-fix-th/",
+      "target": ".recovery-public-stage/en/common-reasons-why-your-student-loan-application-gets-rejected-and-how-to-fix-th/index.html",
+      "sha256": "a0d6919e1acdd3fa0466725fbed4650b934ef7394b5695ced1b0257016fd5404"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparing-apple-music-student-plan-vs-spotify-premium-duo-for-budget-conscious-g/",
+      "target": ".recovery-public-stage/en/comparing-apple-music-student-plan-vs-spotify-premium-duo-for-budget-conscious-g/index.html",
+      "sha256": "9391550aea68ac45afef293880de77efb089d1666c5fb86878f8015f43edda7c"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparing-textbook-rental-prices-across-chegg-amazon-and-campus-stores-for-fall/",
+      "target": ".recovery-public-stage/en/comparing-textbook-rental-prices-across-chegg-amazon-and-campus-stores-for-fall/index.html",
+      "sha256": "3db410094acaf82bac203fd3d963b2a134f89cf795a0632c0d363aa624176074"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-different-car-insurance-discounts-for-students-and-which-saves-the/",
+      "target": ".recovery-public-stage/en/comparison-of-different-car-insurance-discounts-for-students-and-which-saves-the/index.html",
+      "sha256": "8b16a0109c93eb1f6e802a3218bff11a3a803a3c6137d02d652255e0ac5aae45"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-different-coffee-subscription-services-and-which-offers-best-value/",
+      "target": ".recovery-public-stage/en/comparison-of-different-coffee-subscription-services-and-which-offers-best-value/index.html",
+      "sha256": "b5aaaa8f3e3d582b143aa3b1ec9f495887dc0c21ee608eccf61ac52eb99aa962"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-different-parking-pass-options-for-commuter-students-and-which-one/",
+      "target": ".recovery-public-stage/en/comparison-of-different-parking-pass-options-for-commuter-students-and-which-one/index.html",
+      "sha256": "7381c70e8fc2f5faa8d6449c0dddcd645462327ac4527b68a7c21c00f65655d8"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-different-student-loan-servicers-and-how-to-choose-based-on-custom/",
+      "target": ".recovery-public-stage/en/comparison-of-different-student-loan-servicers-and-how-to-choose-based-on-custom/index.html",
+      "sha256": "7e4be57d624153352614e5e6329abb69c0ad287e30fbcf48132ccdf412a921f0"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-different-types-of-student-bank-accounts-and-which-one-charges-few/",
+      "target": ".recovery-public-stage/en/comparison-of-different-types-of-student-bank-accounts-and-which-one-charges-few/index.html",
+      "sha256": "1aab1f2263388b2aac459db99b08771fbb799ad778af100609d516da4f6567ca"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-different-types-of-student-grants-and-which-ones-are-easier-to-obt/",
+      "target": ".recovery-public-stage/en/comparison-of-different-types-of-student-grants-and-which-ones-are-easier-to-obt/index.html",
+      "sha256": "32ea9ae715d35d05744761599463a0ccce8b5337784d52adff5e0a8930b7d2b9"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-different-types-of-student-housing-and-which-one-saves-the-most-mo/",
+      "target": ".recovery-public-stage/en/comparison-of-different-types-of-student-housing-and-which-one-saves-the-most-mo/index.html",
+      "sha256": "5f786d9dd4f83f10f304140b25e59ba5a0e04b235c08cb570abdf3650addca55"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-gas-rewards-programs-that-give-you-free-gallons-after-five-purchas/",
+      "target": ".recovery-public-stage/en/comparison-of-gas-rewards-programs-that-give-you-free-gallons-after-five-purchas/index.html",
+      "sha256": "6e0a093c4e51bba3f6d8f2c58b2a41df6343a3a7255d2ed090ff9ab594c01a2f"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-meal-prepping-services-vs-cooking-from-scratch-for-a-busy-student/",
+      "target": ".recovery-public-stage/en/comparison-of-meal-prepping-services-vs-cooking-from-scratch-for-a-busy-student/index.html",
+      "sha256": "6e6ec9d8fa03bf7a3abad2923b79149e1874f3dd80f6b81a30872b15ae753206"
+    },
+    {
+      "url": "https://discount.org.cn/en/comparison-of-travel-insurance-plans-for-students-going-on-short-term-study-abro/",
+      "target": ".recovery-public-stage/en/comparison-of-travel-insurance-plans-for-students-going-on-short-term-study-abro/index.html",
+      "sha256": "2b69ffc8139e52a941eec10db7c601371cf340dc363e818108be7698d8110f1f"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-analysis-of-cell-phone-plans-that-offer-unlimited-data-for-under-30-dol/",
+      "target": ".recovery-public-stage/en/detailed-analysis-of-cell-phone-plans-that-offer-unlimited-data-for-under-30-dol/index.html",
+      "sha256": "8f1231ebefd500da73339739489bbb7814436fa2e03bc212b7a58103ae358fc6"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-comparison-of-car-sharing-services-for-college-students-who-dont-need-t/",
+      "target": ".recovery-public-stage/en/detailed-comparison-of-car-sharing-services-for-college-students-who-dont-need-t/index.html",
+      "sha256": "8662f8d4c63848436f27e4738dee4b9784129d515fcdff5f0b066426b1f1ab00"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-comparison-of-money-transfer-services-for-receiving-payments-from-inter/",
+      "target": ".recovery-public-stage/en/detailed-comparison-of-money-transfer-services-for-receiving-payments-from-inter/index.html",
+      "sha256": "709041b1a319f9acff9d1dcb4aac0cab00cff6601e41df3ef5bb93a70e2e8b8f"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-guide-to-setting-up-a-direct-deposit-split-that-sends-part-of-your-pay/",
+      "target": ".recovery-public-stage/en/detailed-guide-to-setting-up-a-direct-deposit-split-that-sends-part-of-your-pay/index.html",
+      "sha256": "4f5872f608914ef2e57132296f80924b22c870efc1db5701cef1004d68fa9900"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-guide-to-taking-advantage-of-free-museum-and-gallery-admissions-with-a/",
+      "target": ".recovery-public-stage/en/detailed-guide-to-taking-advantage-of-free-museum-and-gallery-admissions-with-a/index.html",
+      "sha256": "dc813ba9345b9508309a4d210687a11046d5b4ff3ddf134207d2494aab3d5641"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-guide-to-understanding-your-credit-report-and-how-to-dispute-errors-for/",
+      "target": ".recovery-public-stage/en/detailed-guide-to-understanding-your-credit-report-and-how-to-dispute-errors-for/index.html",
+      "sha256": "a8dda2b69a2a77c23624aa9c0a523af24ca0341e55bd4dbd4ab69ff8f3921a7a"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-guide-to-understanding-your-paycheck-stub-and-how-to-minimize-withholdi/",
+      "target": ".recovery-public-stage/en/detailed-guide-to-understanding-your-paycheck-stub-and-how-to-minimize-withholdi/index.html",
+      "sha256": "d98c4ce37902df51214145f14290a6baca3c2050ffa24c9b6eafec2a2c7ca289"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-guide-to-using-a-high-yield-savings-account-for-your-emergency-fund-whi/",
+      "target": ".recovery-public-stage/en/detailed-guide-to-using-a-high-yield-savings-account-for-your-emergency-fund-whi/index.html",
+      "sha256": "4a8985f5102ad931a99eb5b2f1a9429279484e9d9abe72e1ca9d4f42db557f7f"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-tutorial-on-creating-a-meal-plan-that-reduces-food-waste-and-lowers-you/",
+      "target": ".recovery-public-stage/en/detailed-tutorial-on-creating-a-meal-plan-that-reduces-food-waste-and-lowers-you/index.html",
+      "sha256": "254f9e30aa23b56a68d7d18162107378038026398cd702836d81a9174a372b7e"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-tutorial-on-how-to-calculate-the-real-interest-rate-on-a-loan-including/",
+      "target": ".recovery-public-stage/en/detailed-tutorial-on-how-to-calculate-the-real-interest-rate-on-a-loan-including/index.html",
+      "sha256": "d07e52020613dbd73abd8b1de03e6b246dc57e6d1a02ed0eaf6b287ea8e69769"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-tutorial-on-how-to-use-a-budgeting-app-to-track-shared-expenses-with-yo/",
+      "target": ".recovery-public-stage/en/detailed-tutorial-on-how-to-use-a-budgeting-app-to-track-shared-expenses-with-yo/index.html",
+      "sha256": "5109759a9bb13857591966795b673da9688ffc230ddf18dc5fd03b1776b463ca"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-tutorial-on-negotiating-a-lower-price-at-a-used-car-lot-using-online-da/",
+      "target": ".recovery-public-stage/en/detailed-tutorial-on-negotiating-a-lower-price-at-a-used-car-lot-using-online-da/index.html",
+      "sha256": "9541a6a67facb5977dbd014653ed94887cf5c8d993e74585ae106ddd83d8e376"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-tutorial-on-using-a-price-match-guarantee-at-major-retailers-to-get-low/",
+      "target": ".recovery-public-stage/en/detailed-tutorial-on-using-a-price-match-guarantee-at-major-retailers-to-get-low/index.html",
+      "sha256": "ca08544c7112c1bdaf160f3abfa01125819b20db89e5ba6c040bba8ffde3cb19"
+    },
+    {
+      "url": "https://discount.org.cn/en/detailed-walkthrough-of-claiming-your-free-youtube-premium-trial-as-a-university/",
+      "target": ".recovery-public-stage/en/detailed-walkthrough-of-claiming-your-free-youtube-premium-trial-as-a-university/index.html",
+      "sha256": "148445c20aa2993be417e309591fd8528c3233890aa2d652a475b4846e09a2af"
+    },
+    {
+      "url": "https://discount.org.cn/en/does-a-student-credit-card-really-offer-better-rewards-than-a-regular-cashback-c/",
+      "target": ".recovery-public-stage/en/does-a-student-credit-card-really-offer-better-rewards-than-a-regular-cashback-c/index.html",
+      "sha256": "9fa6a196cd9e541ddee4d843836fb04bb05026792fa71ce4ad96fd796a02cb67"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-the-financial-benefits-of-joining-a-fraternity-or-sorority-including/",
+      "target": ".recovery-public-stage/en/evaluating-the-financial-benefits-of-joining-a-fraternity-or-sorority-including/index.html",
+      "sha256": "94fd7d90706ebba65fd5c80154caff0d8dc22ccf80338046fbda29c31e19bff5"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-the-financial-impact-of-living-in-a-single-room-vs-sharing-a-double-i/",
+      "target": ".recovery-public-stage/en/evaluating-the-financial-impact-of-living-in-a-single-room-vs-sharing-a-double-i/index.html",
+      "sha256": "6b88ecfe3dc8cd38fa052192d414b5c4c1ef6bdd7174ee72074ea3cb3a168d7e"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-the-true-cost-of-a-pet-in-college-including-food-vet-bills-and-deposi/",
+      "target": ".recovery-public-stage/en/evaluating-the-true-cost-of-a-pet-in-college-including-food-vet-bills-and-deposi/index.html",
+      "sha256": "34d7b56b9246384d0b2d1aa8b22342674908a8adf828adf65f7b6afab8a3c76e"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-whether-a-campus-job-pays-more-than-an-off-campus-job-when-you-factor/",
+      "target": ".recovery-public-stage/en/evaluating-whether-a-campus-job-pays-more-than-an-off-campus-job-when-you-factor/index.html",
+      "sha256": "20d1acc9a104737234942790a1e3ba949a4a5c436c66c7f95752a310d1aeabab"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-whether-a-meal-plan-costs-less-than-cooking-all-your-own-food-as-a-fr/",
+      "target": ".recovery-public-stage/en/evaluating-whether-a-meal-plan-costs-less-than-cooking-all-your-own-food-as-a-fr/index.html",
+      "sha256": "8d8abb3fd95a773b4652ba07c51d73369a3e90fdc08ca27260494db185789af7"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-whether-a-meal-subscription-box-saves-money-if-you-are-a-single-stude/",
+      "target": ".recovery-public-stage/en/evaluating-whether-a-meal-subscription-box-saves-money-if-you-are-a-single-stude/index.html",
+      "sha256": "8ab7f1070c53baea306a6dd8a911428a90e89c29bcc3f7003d3913db54d7ce2b"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-whether-a-part-time-job-during-finals-week-is-worth-the-extra-money-o/",
+      "target": ".recovery-public-stage/en/evaluating-whether-a-part-time-job-during-finals-week-is-worth-the-extra-money-o/index.html",
+      "sha256": "3e512c5150ffc1fe4cce56c0512e4e96cc4b154872c7b041258ad8478b20ccd6"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-whether-a-part-time-job-in-retail-is-worth-it-compared-to-a-campus-jo/",
+      "target": ".recovery-public-stage/en/evaluating-whether-a-part-time-job-in-retail-is-worth-it-compared-to-a-campus-jo/index.html",
+      "sha256": "6a03ef8564cd1e0c0c7348b600900759b27827007825ba6a94f3847c4feedd37"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-whether-a-semester-abroad-is-financially-feasible-with-scholarships-a/",
+      "target": ".recovery-public-stage/en/evaluating-whether-a-semester-abroad-is-financially-feasible-with-scholarships-a/index.html",
+      "sha256": "4447294c36b73114a469d39edee1920363ae13ffc20d9c1e688a1e3ed7b86ed5"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-whether-it-is-cheaper-to-buy-or-rent-text-books-for-online-only-cours/",
+      "target": ".recovery-public-stage/en/evaluating-whether-it-is-cheaper-to-buy-or-rent-text-books-for-online-only-cours/index.html",
+      "sha256": "009ef5e1fb06e9c979337193df241e35bec7f8a37c7641ab0b54016ec81eb660"
+    },
+    {
+      "url": "https://discount.org.cn/en/evaluating-whether-renting-a-text-book-for-a-semester-costs-more-than-buying-it/",
+      "target": ".recovery-public-stage/en/evaluating-whether-renting-a-text-book-for-a-semester-costs-more-than-buying-it/index.html",
+      "sha256": "b88aeb90c8a9dd9103fa0f8dd1e2113cf7a12e0641aee3ea614f6c79699b2731"
+    },
+    {
+      "url": "https://discount.org.cn/en/everything-you-need-to-know-about-using-health-savings-accounts-for-medical-expe/",
+      "target": ".recovery-public-stage/en/everything-you-need-to-know-about-using-health-savings-accounts-for-medical-expe/index.html",
+      "sha256": "40073dd41648845b6335bfb913797b223430f583548121da314682c3610cf1ae"
+    },
+    {
+      "url": "https://discount.org.cn/en/exclusive-2026-report-on-student-discounts-offered-by-ride-sharing-services-like/",
+      "target": ".recovery-public-stage/en/exclusive-2026-report-on-student-discounts-offered-by-ride-sharing-services-like/index.html",
+      "sha256": "7abb00eb1dfbefcbab853b0941f549ea7dfd9c64890b74cbf342d2acf430dd08"
+    },
+    {
+      "url": "https://discount.org.cn/en/expert-guide-to-adopting-a-zero-based-budget-method-during-your-college-years/",
+      "target": ".recovery-public-stage/en/expert-guide-to-adopting-a-zero-based-budget-method-during-your-college-years/index.html",
+      "sha256": "61a5cf4886256875eb399bc566be99222cfcf413bc91d16216400514fd120bf6"
+    },
+    {
+      "url": "https://discount.org.cn/en/hidden-student-discounts-in-2026-for-public-transit-rides-that-most-commuters-mi/",
+      "target": ".recovery-public-stage/en/hidden-student-discounts-in-2026-for-public-transit-rides-that-most-commuters-mi/index.html",
+      "sha256": "77208dd5147cabfa0a25a4992dfb982691f19ad69a510e0d742b643e73e8b0ea"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-build-a-diversified-investment-portfolio-starting-with-just-50-dollars-as/",
+      "target": ".recovery-public-stage/en/how-to-build-a-diversified-investment-portfolio-starting-with-just-50-dollars-as/index.html",
+      "sha256": "18135c62dd2b2f51b23d095f7dc68fdc44d557f4a76e4aa24f00909ef057d768"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-build-an-emergency-fund-of-500-dollars-in-two-months-without-dipping-into/",
+      "target": ".recovery-public-stage/en/how-to-build-an-emergency-fund-of-500-dollars-in-two-months-without-dipping-into/index.html",
+      "sha256": "db9ec582388f83e801be99df70987943419cbd67abe2af9fef78a3a10440e0b8"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-choose-between-a-fixed-and-variable-interest-rate-on-your-private-student/",
+      "target": ".recovery-public-stage/en/how-to-choose-between-a-fixed-and-variable-interest-rate-on-your-private-student/index.html",
+      "sha256": "fa9f8c7221ce16aa5702e9a603caa7541795b3fcb35136a6a95880b6f6724bc1"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-choose-between-a-traditional-ira-and-a-roth-ira-when-you-have-part-time-i/",
+      "target": ".recovery-public-stage/en/how-to-choose-between-a-traditional-ira-and-a-roth-ira-when-you-have-part-time-i/index.html",
+      "sha256": "1e437830819025d938bbe56bce44ce7c7362f6039951203c569b54c8fbb5978d"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-choose-between-renting-a-house-vs-an-apartment-off-campus-based-on-total/",
+      "target": ".recovery-public-stage/en/how-to-choose-between-renting-a-house-vs-an-apartment-off-campus-based-on-total/index.html",
+      "sha256": "0d1944b3029ceaf0ce446fd4afc2d3e9c0ee7a1682c91d6b7bfa411676daf8b3"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-compare-insurance-plans-for-renters-and-find-the-best-coverage-at-student/",
+      "target": ".recovery-public-stage/en/how-to-compare-insurance-plans-for-renters-and-find-the-best-coverage-at-student/index.html",
+      "sha256": "a26f9facc58c9af4f3932b65eed69edc6ebfbf46833e5d7d37ba86f35517bed6"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-create-a-visual-savings-goal-chart-that-keeps-you-motivated-to-save-every/",
+      "target": ".recovery-public-stage/en/how-to-create-a-visual-savings-goal-chart-that-keeps-you-motivated-to-save-every/index.html",
+      "sha256": "c8a1b7ac41fb329d998b11643d48aa2c4c89e71f065d85b46c089e3d3bd91a61"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-evaluate-the-cost-effectiveness-of-taking-summer-classes-at-a-community-c/",
+      "target": ".recovery-public-stage/en/how-to-evaluate-the-cost-effectiveness-of-taking-summer-classes-at-a-community-c/index.html",
+      "sha256": "b3302e227e9d4596b43a1a168ca601bf1463c16f9415983fb2d5a797ad538885"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-evaluate-the-true-cost-of-a-study-abroad-program-including-hidden-fees-an/",
+      "target": ".recovery-public-stage/en/how-to-evaluate-the-true-cost-of-a-study-abroad-program-including-hidden-fees-an/index.html",
+      "sha256": "3e4ff515966e07292a64b8fa4e7699579d3bef9ff8c85725b5e28a6ce38fa0c0"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-find-free-or-low-cost-fitness-classes-near-campus-that-dont-require-a-gym/",
+      "target": ".recovery-public-stage/en/how-to-find-free-or-low-cost-fitness-classes-near-campus-that-dont-require-a-gym/index.html",
+      "sha256": "b088b426bf63ff2242e59765ced025e994d81acc292023aa3acc9e9ccef23c75"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-find-free-or-low-cost-health-insurance-options-specifically-designed-for/",
+      "target": ".recovery-public-stage/en/how-to-find-free-or-low-cost-health-insurance-options-specifically-designed-for/index.html",
+      "sha256": "37a1e62fcdb9f46638ccdc7b6fff8b3ea75c110fd8036774a8112dce45da10fe"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-find-free-or-low-cost-legal-advice-for-tenant-issues-as-a-college-student/",
+      "target": ".recovery-public-stage/en/how-to-find-free-or-low-cost-legal-advice-for-tenant-issues-as-a-college-student/index.html",
+      "sha256": "47f248a669958058edd2859266d1ba5e88bf368ba0c9a0f33b8c544a33f6217e"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-find-last-minute-cheap-flights-for-spring-break-using-incognito-mode-and/",
+      "target": ".recovery-public-stage/en/how-to-find-last-minute-cheap-flights-for-spring-break-using-incognito-mode-and/index.html",
+      "sha256": "9e6981c26fb021d44a4298b7f7c9bf59f977cf19f54c4848c01788c621b428d4"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-find-legitimate-work-from-home-jobs-for-students-that-dont-require-upfron/",
+      "target": ".recovery-public-stage/en/how-to-find-legitimate-work-from-home-jobs-for-students-that-dont-require-upfron/index.html",
+      "sha256": "8e1ca2881737df8760f7e21e68e9d030bf7fca7869d812648f36e1a49e448c70"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-get-free-access-to-paid-academic-journals-without-violating-university-po/",
+      "target": ".recovery-public-stage/en/how-to-get-free-access-to-paid-academic-journals-without-violating-university-po/index.html",
+      "sha256": "cb037cc0d86cd44058f70d72abe2967c975dbd7ce70cc1201a0f40d6ddf70cfc"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-identify-and-avoid-common-scams-targeting-college-students-looking-for-of/",
+      "target": ".recovery-public-stage/en/how-to-identify-and-avoid-common-scams-targeting-college-students-looking-for-of/index.html",
+      "sha256": "e773dfcf1266562d9f68a0caeb9cd1f0f7f22f26102618d667f721caeef00199"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-negotiate-a-better-deal-on-your-internet-and-cable-bill-with-a-simple-scr/",
+      "target": ".recovery-public-stage/en/how-to-negotiate-a-better-deal-on-your-internet-and-cable-bill-with-a-simple-scr/index.html",
+      "sha256": "aa6d87a0bb3236b688f18191470a88cb0a64d677106b85e042807eaf58157ce2"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-negotiate-a-lower-interest-rate-on-your-student-credit-card-with-a-simple/",
+      "target": ".recovery-public-stage/en/how-to-negotiate-a-lower-interest-rate-on-your-student-credit-card-with-a-simple/index.html",
+      "sha256": "28aa38ef47e84938b3535a9b14b437896998a2de94580497d63e5f3423e58b8d"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-negotiate-rent-as-a-college-student-using-off-campus-housing-data/",
+      "target": ".recovery-public-stage/en/how-to-negotiate-rent-as-a-college-student-using-off-campus-housing-data/index.html",
+      "sha256": "9d3b0ebb57f52cb1019d02cabbcdca359e0f02d18ed4b8558a17d24e4cb91ddb"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-protect-your-credit-score-while-traveling-abroad-for-a-semester-or-study/",
+      "target": ".recovery-public-stage/en/how-to-protect-your-credit-score-while-traveling-abroad-for-a-semester-or-study/index.html",
+      "sha256": "d30d7a826b826ac55dc5d82f6f600cab4b3158b9303b835d121965ac429308dc"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-research-and-choose-a-low-fee-brokerage-account-for-your-first-stock-mark/",
+      "target": ".recovery-public-stage/en/how-to-research-and-choose-a-low-fee-brokerage-account-for-your-first-stock-mark/index.html",
+      "sha256": "e95e0fb578627b514c3c6963dcdfa9c82d3cc80dc9a30ffaef60399699e1b0d7"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-save-money-on-groceries-by-shopping-at-ethnic-markets-instead-of-chain-su/",
+      "target": ".recovery-public-stage/en/how-to-save-money-on-groceries-by-shopping-at-ethnic-markets-instead-of-chain-su/index.html",
+      "sha256": "3c8733fea267f86ce6adf3a293addb704a570c9f976ba8f9293e4a0a55cb1777"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-save-money-on-international-calls-and-roaming-charges-while-studying-abro/",
+      "target": ".recovery-public-stage/en/how-to-save-money-on-international-calls-and-roaming-charges-while-studying-abro/index.html",
+      "sha256": "c57b0dc74b54ee617ffc20d99e5475ec9a2566f13efe37fedda8c9f7f02f2d58"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-save-money-on-pet-supplies-for-a-dog-or-cat-while-staying-on-a-student-bu/",
+      "target": ".recovery-public-stage/en/how-to-save-money-on-pet-supplies-for-a-dog-or-cat-while-staying-on-a-student-bu/index.html",
+      "sha256": "2096f83d859fddda14e8bf18fd0c81b4d7eb2be702364d015d1d01274d603f66"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-save-on-textbooks-by-using-interlibrary-loan-services-and-digital-version/",
+      "target": ".recovery-public-stage/en/how-to-save-on-textbooks-by-using-interlibrary-loan-services-and-digital-version/index.html",
+      "sha256": "7550bf83523931af7c16a75a70a1f5613eaa1f537391d97786900c2aa967f3a7"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-spot-a-fake-job-offer-that-promises-high-pay-for-minimal-work-and-avoid-s/",
+      "target": ".recovery-public-stage/en/how-to-spot-a-fake-job-offer-that-promises-high-pay-for-minimal-work-and-avoid-s/index.html",
+      "sha256": "ae5a11bbeced14dea9f72f614aff19dffdef9ffac6391afceb9e105ced4b6475"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-spot-fake-coupon-websites-that-steal-personal-data-and-what-to-look-for/",
+      "target": ".recovery-public-stage/en/how-to-spot-fake-coupon-websites-that-steal-personal-data-and-what-to-look-for/index.html",
+      "sha256": "5af1b23b8c168919ef8a2d00484822571d2314ca6cc0f644df478008e92e0678"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-use-cashback-portals-for-regular-shopping-and-earn-an-extra-5-percent-on/",
+      "target": ".recovery-public-stage/en/how-to-use-cashback-portals-for-regular-shopping-and-earn-an-extra-5-percent-on/index.html",
+      "sha256": "0151c24437402bc2fbab5c4e1d6a26663251b8363dd636d591f095e22d0c87c8"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-use-credit-card-sign-up-bonuses-to-fund-a-small-trip-without-going-into-d/",
+      "target": ".recovery-public-stage/en/how-to-use-credit-card-sign-up-bonuses-to-fund-a-small-trip-without-going-into-d/index.html",
+      "sha256": "29a24bde9a71c396f99f04fae59f0943017aa118bb5afd875d3e458b5993ead2"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-use-price-tracking-browser-extensions-to-get-refunds-on-items-you-already/",
+      "target": ".recovery-public-stage/en/how-to-use-price-tracking-browser-extensions-to-get-refunds-on-items-you-already/index.html",
+      "sha256": "951a78eea097e5042940ef535f77c5f8ffecdcaeae81d75c4596c9b458663d6c"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-use-student-discounts-to-get-cheaper-public-transport-passes-depending-on/",
+      "target": ".recovery-public-stage/en/how-to-use-student-discounts-to-get-cheaper-public-transport-passes-depending-on/index.html",
+      "sha256": "bf14d5b0dad27e6cc0fbdb4a081c105fb436dae6691449f4367929dc4272fdce"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-use-student-discounts-to-save-on-prescription-glasses-and-contact-lenses/",
+      "target": ".recovery-public-stage/en/how-to-use-student-discounts-to-save-on-prescription-glasses-and-contact-lenses/index.html",
+      "sha256": "6dff5bf5876ecac1fa944f38de83283251dec97570ba81fdc02b6ed65d3df92a"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-use-the-50-30-20-budget-rule-when-you-have-irregular-income-from-tips-or/",
+      "target": ".recovery-public-stage/en/how-to-use-the-50-30-20-budget-rule-when-you-have-irregular-income-from-tips-or/index.html",
+      "sha256": "a61b2c23e6fa670221bfa1afdcfcfaca036b3bee0e9db34d11914f3c9699c49a"
+    },
+    {
+      "url": "https://discount.org.cn/en/how-to-verify-a-discount-code-works-before-entering-payment-information-online/",
+      "target": ".recovery-public-stage/en/how-to-verify-a-discount-code-works-before-entering-payment-information-online/index.html",
+      "sha256": "08355a2bf8ed9e9c51a8741a7fc4ea60a90db28cea494eb50d1599e08dd233c2"
+    },
+    {
+      "url": "https://discount.org.cn/en/maximizing-cashback-at-drugstores-by-combining-store-loyalty-programs-with-manuf/",
+      "target": ".recovery-public-stage/en/maximizing-cashback-at-drugstores-by-combining-store-loyalty-programs-with-manuf/index.html",
+      "sha256": "f722eab4998b35f156e877a266731e00196a83c765cf52de772dc25ef6f5ab18"
+    },
+    {
+      "url": "https://discount.org.cn/en/new-policy-changes-in-2026-that-affect-how-students-can-use-their-federal-financ/",
+      "target": ".recovery-public-stage/en/new-policy-changes-in-2026-that-affect-how-students-can-use-their-federal-financ/index.html",
+      "sha256": "a7e09d74b2c39263881cf3c67b22bdfdac87f4343ad49964c5137025d4eea6ca"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-cost-analysis-of-meal-kit-services-for-students-after-applying-all-availabl/",
+      "target": ".recovery-public-stage/en/real-cost-analysis-of-meal-kit-services-for-students-after-applying-all-availabl/index.html",
+      "sha256": "53151a78cab7eb71bbd470ba33dd868eff4a2fed9d6aaed39180a669260d3a39"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-examples-of-how-dollar-cost-averaging-works-for-students-investing-small-am/",
+      "target": ".recovery-public-stage/en/real-examples-of-how-dollar-cost-averaging-works-for-students-investing-small-am/index.html",
+      "sha256": "dd873bc7807c7b7003656e1aa1b614cffe7e469e0cb0db88bebf95461c25addb"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-examples-of-students-who-paid-off-5000-dollars-in-debt-using-a-side-hustle/",
+      "target": ".recovery-public-stage/en/real-examples-of-students-who-paid-off-5000-dollars-in-debt-using-a-side-hustle/index.html",
+      "sha256": "9f3390033e48dfb2e5ea0414a0b7cf771547006c9b3425a92b340cdaf82493ee"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-life-examples-of-how-inflation-affects-student-budgets-and-what-to-do-about/",
+      "target": ".recovery-public-stage/en/real-life-examples-of-how-inflation-affects-student-budgets-and-what-to-do-about/index.html",
+      "sha256": "d1295b6244bf4d416179f22b42e3bda1a0d4f36d0acba34eb258a432cedd708e"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-life-stories-of-students-who-successfully-negotiated-their-rent-down-with-a/",
+      "target": ".recovery-public-stage/en/real-life-stories-of-students-who-successfully-negotiated-their-rent-down-with-a/index.html",
+      "sha256": "22302108288ac83b675d225f4e8f0b648ca66439f83d990708985ea92b8ded11"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-numbers-behind-how-much-a-daily-starbucks-habit-costs-over-the-course-of-fo/",
+      "target": ".recovery-public-stage/en/real-numbers-behind-how-much-a-daily-starbucks-habit-costs-over-the-course-of-fo/index.html",
+      "sha256": "41e291c271b09683e35e7f5aa1a3b8610cc97217a8b0291cf3554beed676e479"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-numbers-behind-how-much-you-can-save-by-brewing-your-own-coffee-instead-of/",
+      "target": ".recovery-public-stage/en/real-numbers-behind-how-much-you-can-save-by-brewing-your-own-coffee-instead-of/index.html",
+      "sha256": "91c6d70fc788957261df98853b0ed19d6ce7928534083d6030832bc7e7cc4fd6"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-numbers-behind-how-much-you-can-save-by-taking-your-own-lunch-to-campus-eve/",
+      "target": ".recovery-public-stage/en/real-numbers-behind-how-much-you-can-save-by-taking-your-own-lunch-to-campus-eve/index.html",
+      "sha256": "a35f9b8a5bfca0a623896618402c799aa6e5e9f0d6b4d0396674419426697b64"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-stories-of-students-who-negotiated-down-their-university-tuition-bills-and/",
+      "target": ".recovery-public-stage/en/real-stories-of-students-who-negotiated-down-their-university-tuition-bills-and/index.html",
+      "sha256": "c06984e76e7bd61c51ebf7764c6eb5a35470cf9f35455ec1d1be807174d0139a"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-stories-of-students-who-saved-thousands-by-buying-last-year-model-electroni/",
+      "target": ".recovery-public-stage/en/real-stories-of-students-who-saved-thousands-by-buying-last-year-model-electroni/index.html",
+      "sha256": "9c8c2e090406971c64c86eb7b41301360c577e7f68ea83b50a0492f9df5372ed"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-talk-about-how-much-money-you-actually-spend-on-coffee-per-year-and-what-to/",
+      "target": ".recovery-public-stage/en/real-talk-about-how-much-money-you-actually-spend-on-coffee-per-year-and-what-to/index.html",
+      "sha256": "d48f4d6c533b8a018b592f09e5d3a8a156690d60f79b3af480a7e79f8264bc7f"
+    },
+    {
+      "url": "https://discount.org.cn/en/real-world-examples-of-students-who-built-good-credit-from-scratch-within-two-ye/",
+      "target": ".recovery-public-stage/en/real-world-examples-of-students-who-built-good-credit-from-scratch-within-two-ye/index.html",
+      "sha256": "caa6cf42174e979fb906cf4b73c1602b12159253deae4f5cc768b2435c3cfb52"
+    },
+    {
+      "url": "https://discount.org.cn/en/realistic-guide-to-saving-1000-dollars-in-one-semester-without-working-a-second/",
+      "target": ".recovery-public-stage/en/realistic-guide-to-saving-1000-dollars-in-one-semester-without-working-a-second/index.html",
+      "sha256": "f171d9151997913194a368c89f6abd08038dae81d155d2b00a68fe43113bbe4a"
+    },
+    {
+      "url": "https://discount.org.cn/en/risks-of-using-a-shared-student-discount-account-with-roommates-and-how-to-avoid/",
+      "target": ".recovery-public-stage/en/risks-of-using-a-shared-student-discount-account-with-roommates-and-how-to-avoid/index.html",
+      "sha256": "b8ea29925ad21821f44e67badd8e95c39b18262ad188cfd695d49b8c57bee184"
+    },
+    {
+      "url": "https://discount.org.cn/en/seasonal-shopping-calendar-for-students-when-to-buy-winter-jackets-and-summer-el/",
+      "target": ".recovery-public-stage/en/seasonal-shopping-calendar-for-students-when-to-buy-winter-jackets-and-summer-el/index.html",
+      "sha256": "eb68e31a5009cace5097c9a352bcbbf2d516ee839a29d7e7bc78950640f7b586"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-guide-to-applying-for-a-small-personal-loan-with-no-credit-history/",
+      "target": ".recovery-public-stage/en/step-by-step-guide-to-applying-for-a-small-personal-loan-with-no-credit-history/index.html",
+      "sha256": "2bc85d42cbb382f0591dd983acd4d155f8a7bf0d68834b081d37d048d41d2883"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-guide-to-creating-a-savings-challenge-that-helps-you-reach-a-goal-b/",
+      "target": ".recovery-public-stage/en/step-by-step-guide-to-creating-a-savings-challenge-that-helps-you-reach-a-goal-b/index.html",
+      "sha256": "efe6c3ad07ea754bb4aaca977e11494a00dfc6182b311772bb0fee2337c455bd"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-guide-to-selling-your-old-textbooks-online-for-the-highest-possible/",
+      "target": ".recovery-public-stage/en/step-by-step-guide-to-selling-your-old-textbooks-online-for-the-highest-possible/index.html",
+      "sha256": "e034ed211bfb4ba6189a6f513bb1b952e7f1314325ec473ee86d0738fbc1ba82"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-guide-to-setting-up-a-budget-spreadsheet-that-tracks-every-dollar-y/",
+      "target": ".recovery-public-stage/en/step-by-step-guide-to-setting-up-a-budget-spreadsheet-that-tracks-every-dollar-y/index.html",
+      "sha256": "38d48696b0343adace734aa82802fe2a3f05eb8783f873b6cf7eb38820d078af"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-plan-to-build-a-500-emergency-fund-using-cashback-apps-alone/",
+      "target": ".recovery-public-stage/en/step-by-step-plan-to-build-a-500-emergency-fund-using-cashback-apps-alone/index.html",
+      "sha256": "f4a0cc23bb6a96037709f66351f8566bb499792ffc735960a445dd435535d1dd"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-plan-to-create-a-zero-based-budget-for-a-month-with-variable-income/",
+      "target": ".recovery-public-stage/en/step-by-step-plan-to-create-a-zero-based-budget-for-a-month-with-variable-income/index.html",
+      "sha256": "5a7650da76cce3f09228183947652c06792cf091b8ea9a8880cf60ae75576ef3"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-plan-to-pay-off-a-small-credit-card-balance-in-three-months-without/",
+      "target": ".recovery-public-stage/en/step-by-step-plan-to-pay-off-a-small-credit-card-balance-in-three-months-without/index.html",
+      "sha256": "f2b67f1e2e09885a8eb9b8abdffb8a34ff65f0a513430c983af4d8cc30180275"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-plan-to-save-for-a-major-purchase-like-a-laptop-using-sinking-funds/",
+      "target": ".recovery-public-stage/en/step-by-step-plan-to-save-for-a-major-purchase-like-a-laptop-using-sinking-funds/index.html",
+      "sha256": "34b7135c3e465bd387e52284b32616fdf7861b81c67ff6c5fcb765c5c17a54fe"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-plan-to-start-investing-in-index-funds-with-less-than-100-dollars-a/",
+      "target": ".recovery-public-stage/en/step-by-step-plan-to-start-investing-in-index-funds-with-less-than-100-dollars-a/index.html",
+      "sha256": "1219157f64697d3d6e26593e818f1fc1105fdcfa62df7d6d935f1e55dd52f676"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-process-to-cancel-unused-subscriptions-and-recover-50-dollars-a-mon/",
+      "target": ".recovery-public-stage/en/step-by-step-process-to-cancel-unused-subscriptions-and-recover-50-dollars-a-mon/index.html",
+      "sha256": "60f8138cc2ee1db1e80550d16d2563fbb8283e7f866b04bac59802ae47ccb98c"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-process-to-create-a-financial-vision-board-that-keeps-your-saving-g/",
+      "target": ".recovery-public-stage/en/step-by-step-process-to-create-a-financial-vision-board-that-keeps-your-saving-g/index.html",
+      "sha256": "bf7e997507ad3e16f5549f4484a6a36c0e30ec4684eed3cb337e9ff0887fad65"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-process-to-dispute-a-wrongful-charge-on-your-debit-card-as-a-studen/",
+      "target": ".recovery-public-stage/en/step-by-step-process-to-dispute-a-wrongful-charge-on-your-debit-card-as-a-studen/index.html",
+      "sha256": "aec6bbe6f3f1feb9cf7510dffd7c930e23ece2170432539a888713b3dd83408a"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-process-to-file-your-own-taxes-for-free-as-a-student-with-simple-in/",
+      "target": ".recovery-public-stage/en/step-by-step-process-to-file-your-own-taxes-for-free-as-a-student-with-simple-in/index.html",
+      "sha256": "ddb2b2a60ed5fbc18d7372022c76b268172b9c7ada8545811f322a09de493eff"
+    },
+    {
+      "url": "https://discount.org.cn/en/step-by-step-process-to-set-up-a-recurring-transfer-from-checking-to-savings-tha/",
+      "target": ".recovery-public-stage/en/step-by-step-process-to-set-up-a-recurring-transfer-from-checking-to-savings-tha/index.html",
+      "sha256": "e9e677b85a70c1cabf0fe5cb7d9bd605001f5f68b2d214ecc1f4656a423a4ed5"
+    },
+    {
+      "url": "https://discount.org.cn/en/the-surprising-truth-about-student-discounts-on-gym-memberships-and-whether-they/",
+      "target": ".recovery-public-stage/en/the-surprising-truth-about-student-discounts-on-gym-memberships-and-whether-they/index.html",
+      "sha256": "aeedba9b68e8df6d53e962c5777652bf6bf64fa5734ee5b5f334f579799bee1f"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-10-free-online-courses-that-offer-certificates-and-can-boost-your-resume-wit/",
+      "target": ".recovery-public-stage/en/top-10-free-online-courses-that-offer-certificates-and-can-boost-your-resume-wit/index.html",
+      "sha256": "4f1ba427c61aa7fb678def3c77fe762ed8f2aea6e5b219aeedcacc9ddb66322a"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-3-apps-for-finding-free-e-books-and-academic-texts-without-breaking-copyrigh/",
+      "target": ".recovery-public-stage/en/top-3-apps-for-finding-free-e-books-and-academic-texts-without-breaking-copyrigh/index.html",
+      "sha256": "8bd23e1910f051c1c451012cb317de1b3d6313a534bd61f1701779ec859741d8"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-3-apps-that-automatically-find-and-apply-coupons-at-checkout-for-you-in-2026/",
+      "target": ".recovery-public-stage/en/top-3-apps-that-automatically-find-and-apply-coupons-at-checkout-for-you-in-2026/index.html",
+      "sha256": "9f7dbbe7a2a2d3a4d1ed9f67fc7b358ca367c340a474bab92bbcadbbc4f25ea9"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-3-mistakes-parents-make-when-co-signing-student-loans-and-how-to-communicate/",
+      "target": ".recovery-public-stage/en/top-3-mistakes-parents-make-when-co-signing-student-loans-and-how-to-communicate/index.html",
+      "sha256": "f02c6bf8d71b98ed3679482a1c6df613787d143934a13356287bd3663fd77dcb"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-3-pitfalls-when-renting-an-apartment-near-campus-and-how-to-avoid-financial/",
+      "target": ".recovery-public-stage/en/top-3-pitfalls-when-renting-an-apartment-near-campus-and-how-to-avoid-financial/index.html",
+      "sha256": "d1f87a80e16e73a92d24ac1cbfad951c61b81824390a91139c55c5da107ce6fb"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-3-strategies-for-avoiding-impulse-purchases-while-shopping-online-late-at-ni/",
+      "target": ".recovery-public-stage/en/top-3-strategies-for-avoiding-impulse-purchases-while-shopping-online-late-at-ni/index.html",
+      "sha256": "70958bb439a5233fade00c219ed7b91f3dde81ba35a75c14aabdf87a46c0f9d7"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-3-strategies-for-saving-money-on-lab-equipment-and-supplies-for-science-majo/",
+      "target": ".recovery-public-stage/en/top-3-strategies-for-saving-money-on-lab-equipment-and-supplies-for-science-majo/index.html",
+      "sha256": "844dfe5f1119f35bbbb017910ca079f85af4f11c2f5340219508712aeb98b9e5"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-5-apps-that-round-up-your-spare-change-and-invest-it-in-low-fee-index-funds/",
+      "target": ".recovery-public-stage/en/top-5-apps-that-round-up-your-spare-change-and-invest-it-in-low-fee-index-funds/index.html",
+      "sha256": "ff70709f7f79f7372c783868f1efa7103fed547e8395a29470fad3a836818f37"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-5-banking-apps-with-no-overdraft-fees-and-free-atm-access-for-students-in-20/",
+      "target": ".recovery-public-stage/en/top-5-banking-apps-with-no-overdraft-fees-and-free-atm-access-for-students-in-20/index.html",
+      "sha256": "6fd0b83f8e32cfc5949c725e7241caf960f4afd362945e3a3021454da48776df"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-5-mistakes-students-make-when-applying-for-credit-cards-and-how-to-avoid-the/",
+      "target": ".recovery-public-stage/en/top-5-mistakes-students-make-when-applying-for-credit-cards-and-how-to-avoid-the/index.html",
+      "sha256": "18c2931eb5105ab0c899dcadc547f19dc43022596ed4c6419ea5ccc519fbc24f"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-5-reasons-to-avoid-payday-loans-and-what-alternatives-exist-for-students-in/",
+      "target": ".recovery-public-stage/en/top-5-reasons-to-avoid-payday-loans-and-what-alternatives-exist-for-students-in/index.html",
+      "sha256": "d0c27abce3c65ecfd3458f4df9ad916b34b4f484d23ef513ec001bf544a973a3"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-5-tactics-for-reducing-your-monthly-cell-phone-bill-without-changing-your-nu/",
+      "target": ".recovery-public-stage/en/top-5-tactics-for-reducing-your-monthly-cell-phone-bill-without-changing-your-nu/index.html",
+      "sha256": "9103bd0096bff7e958883e2ee9687dcda60db0d9643eb0d1cf4ee23931da1b16"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-5-ways-to-earn-extra-cash-during-winter-break-that-dont-involve-retail-jobs/",
+      "target": ".recovery-public-stage/en/top-5-ways-to-earn-extra-cash-during-winter-break-that-dont-involve-retail-jobs/index.html",
+      "sha256": "76422e7193f475b4a8da62e1e4ce5bfb9f4f6a04e273f1cd4574ffb5d5653021"
+    },
+    {
+      "url": "https://discount.org.cn/en/top-5-ways-to-save-money-on-printing-costs-for-large-projects-and-poster-present/",
+      "target": ".recovery-public-stage/en/top-5-ways-to-save-money-on-printing-costs-for-large-projects-and-poster-present/index.html",
+      "sha256": "9828520c9ca92e39d6b4dbf97c320068f260d81de65367d2cb351207a310d977"
+    },
+    {
+      "url": "https://discount.org.cn/en/what-happens-when-your-edu-email-expires-and-your-discounts-disappear-overnight/",
+      "target": ".recovery-public-stage/en/what-happens-when-your-edu-email-expires-and-your-discounts-disappear-overnight/index.html",
+      "sha256": "4cadca885a3166a70a4271f7ad9b0f0da0432e8834ed1e59cc77cdddfeb61d0a"
+    },
+    {
+      "url": "https://discount.org.cn/en/where-to-find-free-design-software-alternatives-to-adobe-creative-cloud-for-stud/",
+      "target": ".recovery-public-stage/en/where-to-find-free-design-software-alternatives-to-adobe-creative-cloud-for-stud/index.html",
+      "sha256": "b21e980e9276073e51e7f99906b59064d708262998ed61616fc45e73d6608292"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-buying-a-laptop-at-the-end-of-the-school-year-often-yields-the-best-discount/",
+      "target": ".recovery-public-stage/en/why-buying-a-laptop-at-the-end-of-the-school-year-often-yields-the-best-discount/index.html",
+      "sha256": "a52beb6fb03692cf0f50f54f94f8153adcf78e121505affed2f293ed3dd31bb0"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-buying-a-printer-for-your-dorm-room-may-cost-more-in-ink-than-printing-at-th/",
+      "target": ".recovery-public-stage/en/why-buying-a-printer-for-your-dorm-room-may-cost-more-in-ink-than-printing-at-th/index.html",
+      "sha256": "295ce6a8b88ae4356f7f4347901a8c410d751fdd2713e0f67085933f7dceb542"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-buying-a-used-car-from-a-private-seller-often-saves-more-money-than-from-a-d/",
+      "target": ".recovery-public-stage/en/why-buying-a-used-car-from-a-private-seller-often-saves-more-money-than-from-a-d/index.html",
+      "sha256": "8b464a2d961aed3eb29c1d57924bbaa6b994d064a1a9b9dfa18109f890b4243c"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-buying-a-used-ipad-from-a-refurbished-seller-might-be-smarter-than-an-educat/",
+      "target": ".recovery-public-stage/en/why-buying-a-used-ipad-from-a-refurbished-seller-might-be-smarter-than-an-educat/index.html",
+      "sha256": "c50c68fefbf59ebba4d63dc63c096c8df5c6c297eda412665ee47dba160eb09f"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-buying-a-used-smartphone-from-a-refurbished-seller-can-save-you-hundreds-of/",
+      "target": ".recovery-public-stage/en/why-buying-a-used-smartphone-from-a-refurbished-seller-can-save-you-hundreds-of/index.html",
+      "sha256": "a34bd2edd2adae6502760510744fe689d18d1de3a3efabe3a06aa5de72fb34f4"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-buying-generic-brands-at-the-grocery-store-can-save-you-hundreds-of-dollars/",
+      "target": ".recovery-public-stage/en/why-buying-generic-brands-at-the-grocery-store-can-save-you-hundreds-of-dollars/index.html",
+      "sha256": "965d3d84630d8993b487c05a47fa803710c428c1309208ca535fe2d64c7e6db3"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-joining-a-buying-club-like-costco-can-save-you-money-even-if-you-live-in-a-d/",
+      "target": ".recovery-public-stage/en/why-joining-a-buying-club-like-costco-can-save-you-money-even-if-you-live-in-a-d/index.html",
+      "sha256": "8f67f85c6ec4687b3154fa7502d3c5f11f0d9f838df6b4f96bc6b9fff7215ed9"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-peak-season-airfare-hacks-fail-for-college-travelers-and-what-works-instead/",
+      "target": ".recovery-public-stage/en/why-peak-season-airfare-hacks-fail-for-college-travelers-and-what-works-instead/index.html",
+      "sha256": "dde5c9f51d32f304d3c1c8012465e87b444716b52e30515c5b801413fe9be206"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-signing-up-for-a-retail-store-credit-card-just-for-a-15-discount-is-usually/",
+      "target": ".recovery-public-stage/en/why-signing-up-for-a-retail-store-credit-card-just-for-a-15-discount-is-usually/index.html",
+      "sha256": "750d51e13381f9662afdebe495ec572c267cd3790143e0b77bd9571ee14ec1a1"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-the-first-credit-card-offer-you-receive-may-not-be-the-best-for-building-cre/",
+      "target": ".recovery-public-stage/en/why-the-first-credit-card-offer-you-receive-may-not-be-the-best-for-building-cre/index.html",
+      "sha256": "bc77b89a5cb3c91015d194916b7c3b5bd15ae4bacd71ba73a225ec8805e9a14f"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-using-a-cash-envelope-system-for-discretionary-spending-can-help-you-stay-on/",
+      "target": ".recovery-public-stage/en/why-using-a-cash-envelope-system-for-discretionary-spending-can-help-you-stay-on/index.html",
+      "sha256": "c09e32ca9b2e86f9671c578d0dc50ca5c391b8acbe180e6d99e5973d9f669701"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-you-should-always-check-for-a-student-discount-before-buying-anything-online/",
+      "target": ".recovery-public-stage/en/why-you-should-always-check-for-a-student-discount-before-buying-anything-online/index.html",
+      "sha256": "a8f5ffaa5b2fb6609e6ab3baca4e1646768c77a6055c6192ea9b15eea0fd6714"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-you-should-always-check-for-cashback-offers-before-making-any-purchase-onlin/",
+      "target": ".recovery-public-stage/en/why-you-should-always-check-for-cashback-offers-before-making-any-purchase-onlin/index.html",
+      "sha256": "5465705555e6f76f76fec55b149551e0136dad8ebbcb866f5cda8dec0e45960b"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-you-should-always-compare-the-total-cost-of-a-loan-including-fees-before-sig/",
+      "target": ".recovery-public-stage/en/why-you-should-always-compare-the-total-cost-of-a-loan-including-fees-before-sig/index.html",
+      "sha256": "e10528e5238f8d75d8038b1a5b85ca96c65e629ae7badbdeaf8e12429bc9f11f"
+    },
+    {
+      "url": "https://discount.org.cn/en/why-you-should-never-pay-full-price-for-software-as-a-student-and-where-to-get-d/",
+      "target": ".recovery-public-stage/en/why-you-should-never-pay-full-price-for-software-as-a-student-and-where-to-get-d/index.html",
+      "sha256": "909b8674d24b8e3802a0e85e854c369061f668d86d930a62c4603bfdf71222fc"
+    },
+    {
+      "url": "https://discount.org.cn/evernote%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E4%B8%8E%E5%9B%BD%E4%BA%A7%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E6%95%99%E8%82%B2%E7%89%88%E5%8A%9F%E8%83%BD%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/evernote学生折扣与国产印象笔记教育版功能价格对比/index.html",
+      "sha256": "40087524ec9ce2e9a4c7ecead27bd38c3fe423d23b2bde37f8099403b6b92059"
+    },
+    {
+      "url": "https://discount.org.cn/favicon.svg",
+      "target": ".recovery-public-stage/favicon.svg",
+      "sha256": "3a22ce073bcbeb2d9d4da4f89e3fb66d0daaac5c75502b0db9f04f7952657989"
+    },
+    {
+      "url": "https://discount.org.cn/figma%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E5%8D%B3%E6%97%B6%E8%AE%BE%E8%AE%A1mastergo%E5%85%8D%E8%B4%B9%E6%94%BF%E7%AD%96%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/figma学生订阅与国内即时设计mastergo免费政策对比/index.html",
+      "sha256": "6818f2275fb0cd360304f20b3589196a72fc7f4828caf1495abf616ae7af2127"
+    },
+    {
+      "url": "https://discount.org.cn/framer%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E5%8D%B3%E6%97%B6%E8%AE%BE%E8%AE%A1%E7%AD%89%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%95%99%E8%82%B2%E6%94%BF%E7%AD%96%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/framer学生订阅与国内即时设计等平台的教育政策对比/index.html",
+      "sha256": "81f10c41e420fdd00b4dac2c1577b192b3866999b71a6f14da91e822b1361c5f"
+    },
+    {
+      "url": "https://discount.org.cn/gemini-advanced%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8Echatgpt-plus%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E6%80%A7%E4%BB%B7%E6%AF%94%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/gemini-advanced学生订阅与chatgpt-plus学生优惠性价比分析/index.html",
+      "sha256": "7a2a40b9f1a25cea33f91f26a469d7b2961f448ca796ce49214d11fad9d48cf9"
+    },
+    {
+      "url": "https://discount.org.cn/github-copilot%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8%E4%B8%8Ecodeium%E9%80%9A%E4%B9%89%E7%81%B5%E7%A0%81%E5%AF%B9%E6%AF%94%E8%AF%84%E6%B5%8B/",
+      "target": ".recovery-public-stage/github-copilot学生免费使用与codeium通义灵码对比评测/index.html",
+      "sha256": "dc5047f3a0c2dc8cbbea5e00daf128139bfc24b7f0c8ae2158347213f560bee8"
+    },
+    {
+      "url": "https://discount.org.cn/hazeover%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85one-switch%E7%AD%89%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/hazeover学生订阅与国内one-switch等效率工具教育版对比/index.html",
+      "sha256": "3a8eba504bdd1351afcc062bfb805e18b594003a7fa6596001d3bf0e5ef09078"
+    },
+    {
+      "url": "https://discount.org.cn/hello-world/",
+      "target": ".recovery-public-stage/hello-world/index.html",
+      "sha256": "526c78977448bc362c4808d31dea83f706e2cf60dc9a7735e38c470181d3184d"
+    },
+    {
+      "url": "https://discount.org.cn/ipad%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E4%B8%8E%E5%8D%8E%E4%B8%BAmatepad%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E8%B4%AD%E4%B9%B0%E6%97%B6%E6%9C%BA%E5%88%86%E6%9E%90/",
+      "target": ".recovery-public-stage/ipad学生折扣与华为matepad教育优惠购买时机分析/index.html",
+      "sha256": "21f6ad44d8bf29b17425971db6f26de09c06621dca87f07d5ba72a255f0332f4"
+    },
+    {
+      "url": "https://discount.org.cn/iphone%E5%AD%A6%E7%94%9F%E6%8A%98%E6%89%A3%E8%B4%AD%E4%B9%B0%E5%85%A8%E6%94%BB%E7%95%A5%E4%BB%8E%E5%AE%98%E7%BD%91%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%88%B0%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0%E6%AF%94%E4%BB%B7/",
+      "target": ".recovery-public-stage/iphone学生折扣购买全攻略从官网教育优惠到第三方平台比价/index.html",
+      "sha256": "38bc49a243c005089b64a8d3a6e46a3917be152849357c2e58bf941176097c7c"
+    },
+    {
+      "url": "https://discount.org.cn/jetbrains%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E8%AE%B8%E5%8F%AF%E8%AF%81%E4%B8%8Evisual-studio-code%E5%BC%80%E6%BA%90%E7%94%9F%E6%80%81%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/jetbrains学生免费许可证与visual-studio-code开源生态对比/index.html",
+      "sha256": "c16463df5e7f480f310b02c68ddab142040fda7226cf97bcf65526046eae45bb"
+    },
+    {
+      "url": "https://discount.org.cn/microsoft-365%E5%AD%A6%E7%94%9F%E7%89%88%E4%B8%8Ewps%E6%95%99%E8%82%B2%E7%89%88%E5%8A%9F%E8%83%BD%E4%B8%8E%E4%BB%B7%E6%A0%BC%E5%85%A8%E6%96%B9%E4%BD%8D%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/microsoft-365学生版与wps教育版功能与价格全方位对比/index.html",
+      "sha256": "d0f9d7588814130e520deb2cd7e94f348d291cfadd149c820a66fb834282f1fa"
+    },
+    {
+      "url": "https://discount.org.cn/mindmeister%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85xmind%E5%B9%95%E5%B8%83%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/mindmeister学生订阅与国内xmind幕布教育版对比/index.html",
+      "sha256": "a24843254e9a6cf58621adf1de27ffb021aefde43ea7ff26aabc222ece390e70"
+    },
+    {
+      "url": "https://discount.org.cn/miro%E5%AD%A6%E7%94%9F%E6%96%B9%E6%A1%88%E4%B8%8E%E5%9B%BD%E5%86%85processon%E4%BA%BF%E5%9B%BE%E5%9B%BE%E7%A4%BA%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/miro学生方案与国内processon亿图图示教育版对比/index.html",
+      "sha256": "c984d81325906ed92b870fb36161e7511255639ce0f6577ca89a498b6750ccc0"
+    },
+    {
+      "url": "https://discount.org.cn/mongodb-atlas%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E9%A2%9D%E5%BA%A6%E4%B8%8E%E9%98%BF%E9%87%8C%E4%BA%91mongodb%E6%95%99%E8%82%B2%E8%AE%A1%E5%88%92%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/mongodb-atlas学生免费额度与阿里云mongodb教育计划对比/index.html",
+      "sha256": "798104a85114b4a0ad2d7ff07fea931d552cba167a0ac4519df503ebb1108d62"
+    },
+    {
+      "url": "https://discount.org.cn/notion-plus%E5%AD%A6%E7%94%9F%E6%96%B9%E6%A1%88%E4%B8%8E%E5%9B%BD%E5%86%85flowuswolai%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94%E8%AF%84%E6%B5%8B/",
+      "target": ".recovery-public-stage/notion-plus学生方案与国内flowuswolai教育版对比评测/index.html",
+      "sha256": "5ac7e3b9f0c8babbc7b362f5b4948ab624c598e8e2553a7e75eed4b11e81a51f"
+    },
+    {
+      "url": "https://discount.org.cn/og-image.jpg",
+      "target": ".recovery-public-stage/og-image.jpg",
+      "sha256": "9d87e0200b029e614720f994a45f0690ffe0f9245dea9e17e7b66f6304e2ad3d"
+    },
+    {
+      "url": "https://discount.org.cn/otterai%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E8%AE%AF%E9%A3%9E%E5%90%AC%E8%A7%81%E9%A3%9E%E4%B9%A6%E5%A6%99%E8%AE%B0%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/otterai学生订阅与国内讯飞听见飞书妙记对比/index.html",
+      "sha256": "ee9a738fe9a2aee1d3d33573d414fbfc7dbcc3c4fb9183bde2dcc6b719f45e28"
+    },
+    {
+      "url": "https://discount.org.cn/overleaf%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85texpageslager%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/overleaf学生订阅与国内texpageslager教育版对比/index.html",
+      "sha256": "8c9c3dbf5bf4a4b0adf4eb33b2ceed80b80e0fe646420795fcb37a9ef2716426"
+    },
+    {
+      "url": "https://discount.org.cn/paste%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E5%89%AA%E8%B4%B4%E6%9D%BF%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/paste学生订阅与国内剪贴板管理工具教育版对比/index.html",
+      "sha256": "33eff6b00f496f3b710d394eb8aec1ab39383b8ce4cf10f3270ea7ba76bbaaf6"
+    },
+    {
+      "url": "https://discount.org.cn/popclip%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E8%B6%85%E7%BA%A7%E5%8F%B3%E9%94%AE%E7%AD%89%E9%BC%A0%E6%A0%87%E5%A2%9E%E5%BC%BA%E5%B7%A5%E5%85%B7%E6%95%99%E8%82%B2%E7%89%88/",
+      "target": ".recovery-public-stage/popclip学生订阅与国内超级右键等鼠标增强工具教育版/index.html",
+      "sha256": "f9471968d11558a5a0ca2868a508a1e35ac591acd381e185ec12768a4b2c92b6"
+    },
+    {
+      "url": "https://discount.org.cn/readwise%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85marginnotebookxnote%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/readwise学生订阅与国内marginnotebookxnote功能对比/index.html",
+      "sha256": "0f9733a343ec66cfe71c10539e8ba315192196434a325468c36f28ce43f278d5"
+    },
+    {
+      "url": "https://discount.org.cn/robots.txt",
+      "target": ".recovery-public-stage/robots.txt",
+      "sha256": "d8344982266620405eec419f03b8b4970834e91893184f316ebfdb3cb804d483"
+    },
+    {
+      "url": "https://discount.org.cn/setapp%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E6%95%B0%E7%A0%81%E8%8D%94%E6%9E%9D%E6%AD%A3%E7%89%88%E8%BD%AF%E4%BB%B6%E9%9B%86%E5%90%88%E4%BB%B7%E6%A0%BC%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/setapp学生订阅与国内数码荔枝正版软件集合价格对比/index.html",
+      "sha256": "e21e877747eb9e713064673fe4b48b324c0cdec52dc83143966d676c0f86c309"
+    },
+    {
+      "url": "https://discount.org.cn/sitemap-index.xml",
+      "target": ".recovery-public-stage/sitemap-index.xml",
+      "sha256": "9ecbad1603622a198c8253f5ae2519fc2b03aaa75bb9815bda614989e5c3e585"
+    },
+    {
+      "url": "https://discount.org.cn/sketch%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8Efigma%E5%85%8D%E8%B4%B9%E6%94%BF%E7%AD%96%E5%8F%8A%E5%9B%BD%E5%86%85%E6%91%B9%E5%AE%A2%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/sketch学生订阅与figma免费政策及国内摹客对比/index.html",
+      "sha256": "ff177d7ac32a84e5d95d7e9695796a3de2aad0d5a6677caf703fa5454bf621c0"
+    },
+    {
+      "url": "https://discount.org.cn/spotify%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85qq%E9%9F%B3%E4%B9%90%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%AD%A6%E7%94%9F%E4%BB%B7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/spotify学生订阅与国内qq音乐网易云音乐学生价对比/index.html",
+      "sha256": "6109929a0a83178192d4e61fbf5dba71e9d91ba7be713c2986f05bbd3f71f3af"
+    },
+    {
+      "url": "https://discount.org.cn/tableau%E5%AD%A6%E7%94%9F%E7%89%88%E4%B8%8E%E5%9B%BD%E5%86%85finebi%E6%B0%B8%E6%B4%AAbi%E5%AD%A6%E4%B9%A0%E7%89%88%E5%8A%9F%E8%83%BD%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/tableau学生版与国内finebi永洪bi学习版功能对比/index.html",
+      "sha256": "d988dd6b7e9cdc83a49e6cb535b9666e655e26d69bc1915d9b2beb5d173e9831"
+    },
+    {
+      "url": "https://discount.org.cn/textsniper%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/textsniper学生订阅与国内ocr文字识别工具教育版对比/index.html",
+      "sha256": "02ed4a9ea42726f4c459921bed771bd754df1b8c6e0dbab8669d6e7157359f6b"
+    },
+    {
+      "url": "https://discount.org.cn/things%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95todoist%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/things学生订阅与国内滴答清单todoist教育版对比/index.html",
+      "sha256": "63bfad992bdf927c3aeeb41e4d8c68001f3c7dd07ec43ca9ca0cdd26251f4dfc"
+    },
+    {
+      "url": "https://discount.org.cn/ticktick%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85todo%E6%B8%85%E5%8D%95%E7%B1%BB%E5%BA%94%E7%94%A8%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/ticktick学生订阅与国内todo清单类应用教育版对比/index.html",
+      "sha256": "1d5a5d0cc1a429641185f74df3bfa675b85b64700209e0dd4efdcf7f5373bb37"
+    },
+    {
+      "url": "https://discount.org.cn/timing%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85rescuetime%E6%95%99%E8%82%B2%E7%89%88%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/timing学生订阅与国内rescuetime教育版时间管理工具对比/index.html",
+      "sha256": "5c83140167644424e79b3cc9d13b181be8233b79c69b8efc04a432b6e4351091"
+    },
+    {
+      "url": "https://discount.org.cn/todoist%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95microsoft-to-do%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/todoist学生订阅与国内滴答清单microsoft-to-do对比/index.html",
+      "sha256": "705c0ed6808c2ee4a99542c0fdcc7473be0d3a4008b5b660e49d039f34d68b13"
+    },
+    {
+      "url": "https://discount.org.cn/ulysses%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85effietypora%E6%95%99%E8%82%B2%E7%89%88%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/ulysses学生订阅与国内effietypora教育版写作工具对比/index.html",
+      "sha256": "fd616f2135f11d7ac04beaee2eb58c60fb8dfafba95789f39ac6954fd9f04d22"
+    },
+    {
+      "url": "https://discount.org.cn/unity%E5%AD%A6%E7%94%9F%E7%89%88%E4%B8%8Eunreal-engine%E5%85%8D%E8%B4%B9%E6%94%BF%E7%AD%96%E5%8F%8A%E5%9B%BD%E4%BA%A7cocos%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/unity学生版与unreal-engine免费政策及国产cocos对比/index.html",
+      "sha256": "d60c7b2983869b764fe6fbe399137427b8b6f163a5c027c7feb97985d027ffef"
+    },
+    {
+      "url": "https://discount.org.cn/yoink%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85%E6%96%87%E4%BB%B6%E6%9A%82%E5%AD%98%E5%B7%A5%E5%85%B7%E6%95%99%E8%82%B2%E7%89%88%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/yoink学生订阅与国内文件暂存工具教育版对比/index.html",
+      "sha256": "79dcee7b6a0f2082471e48cb50e4525a963b8f84fbd4e212e4746af4476e917a"
+    },
+    {
+      "url": "https://discount.org.cn/youtube-premium%E5%AD%A6%E7%94%9F%E8%AE%A2%E9%98%85%E4%B8%8E%E5%9B%BD%E5%86%85b%E7%AB%99%E5%A4%A7%E4%BC%9A%E5%91%98%E4%BB%B7%E6%A0%BC%E5%86%85%E5%AE%B9%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/youtube-premium学生订阅与国内b站大会员价格内容对比/index.html",
+      "sha256": "29f4b54489acb5d031cf693827b964c543407853e3e0673a1eea3aea128f17b7"
+    },
+    {
+      "url": "https://discount.org.cn/zotero%E4%B8%8Eendnote%E5%AD%A6%E7%94%9F%E7%89%88%E5%8F%8A%E5%9B%BD%E4%BA%A7noteexpress%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94/",
+      "target": ".recovery-public-stage/zotero与endnote学生版及国产noteexpress文献管理工具对比/index.html",
+      "sha256": "0e4646b305f180094128fde99d4a1ec2a0979f5fc340039eb61c42e0f46708bf"
+    }
+  ],
+  "writes": [
+    {
+      "topic_id": "discount-org-cn-0893",
+      "target": "public/articles/discount-org-cn-0893/index.html",
+      "url": "https://discount.org.cn/articles/discount-org-cn-0893/",
+      "sha256": "5c1fbc7350bf248c14118a7fd329d2340652f45824c0e5bb7b34e72a6b2b1a9b"
+    },
+    {
+      "topic_id": "discount-org-cn-0894",
+      "target": "public/articles/discount-org-cn-0894/index.html",
+      "url": "https://discount.org.cn/articles/discount-org-cn-0894/",
+      "sha256": "8b8ac01e447d8b4f04bc26d4612408cdd1f4293912fc19e1affdcb6d8c5879dc"
+    },
+    {
+      "topic_id": "discount-org-cn-0895",
+      "target": "public/articles/discount-org-cn-0895/index.html",
+      "url": "https://discount.org.cn/articles/discount-org-cn-0895/",
+      "sha256": "410ee56683903d65f1a787534dcbf9bc85bd00df5a222d5e72f3879a3b8f0597"
+    },
+    {
+      "topic_id": "discount-org-cn-0896",
+      "target": "public/articles/discount-org-cn-0896/index.html",
+      "url": "https://discount.org.cn/articles/discount-org-cn-0896/",
+      "sha256": "2aa8379f60901a669ea38feea48f1835bbb09a5030f3921bb55f59f479cec36d"
+    },
+    {
+      "topic_id": "discount-org-cn-0897",
+      "target": "public/articles/discount-org-cn-0897/index.html",
+      "url": "https://discount.org.cn/articles/discount-org-cn-0897/",
+      "sha256": "ae56fe05211952772a3aaff23eef6477b0b11cf96601ae0e6ea566f80b110943"
+    },
+    {
+      "topic_id": "discount-org-cn-0898",
+      "target": "public/articles/discount-org-cn-0898/index.html",
+      "url": "https://discount.org.cn/articles/discount-org-cn-0898/",
+      "sha256": "60a3f0664a74868922a7916a3f33fa05f2a8893414789537d24c5582a32b2eb8"
+    }
+  ]
+}
