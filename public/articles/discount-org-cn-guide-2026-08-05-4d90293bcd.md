@@ -8,7 +8,7 @@ slug: 'discount-org-cn-guide-2026-08-05-4d90293bcd'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-折扣/discount-org-cn-guide-2026-08-05-4d90293bcd-image-01-2026-1280x800.jpg'
+ogImage: 'https://img.discount.org.cn/对比评测-折扣/discount-org-cn-guide-2026-08-05-4d90293bcd-image-01-2026-1280x800.jpg'
 verified: '2026-08-05T00:00:00Z'
 tags:
   - '折扣平台'
@@ -22,7 +22,7 @@ tags:
 ## 按需对比关键维度
 
 
-![手机上的折扣购物应用界面](https://img.ulec.com.cn/对比评测-折扣/discount-org-cn-guide-2026-08-05-4d90293bcd-image-01-2026-1280x800.jpg)
+![手机上的折扣购物应用界面](https://img.discount.org.cn/对比评测-折扣/discount-org-cn-guide-2026-08-05-4d90293bcd-image-01-2026-1280x800.jpg)
 
 ### 覆盖品类
 不同平台的品类覆盖各有侧重，具体覆盖范围因平台而异。用户在选择时应关注平台是否涵盖自己常购的品类。

@@ -8,7 +8,7 @@ slug: 'zoom-microsoft-teams-2026-08-06-0c5cc048cd'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-折扣/zoom-microsoft-teams-2026-08-06-0c5cc048cd-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.discount.org.cn/对比评测-折扣/zoom-microsoft-teams-2026-08-06-0c5cc048cd-image-01-2026-1880x1253.jpg'
 verified: '2026-08-06T00:00:00Z'
 tags:
   - '视频会议'
@@ -24,7 +24,7 @@ tags:
 
 **钉钉**：付费版包含专属存储空间、更大会议容量等权益，适合企业内部沟通和协作。
 
-![多人视频会议软件界面](https://img.ulec.com.cn/对比评测-折扣/zoom-microsoft-teams-2026-08-06-0c5cc048cd-image-01-2026-1880x1253.jpg)
+![多人视频会议软件界面](https://img.discount.org.cn/对比评测-折扣/zoom-microsoft-teams-2026-08-06-0c5cc048cd-image-01-2026-1880x1253.jpg)
 
 
 **腾讯会议**：付费版支持更高清晰度、更大会议人数和录制转写等功能，且可按需购买会员或企业版。
@@ -55,7 +55,7 @@ tags:
 
 根据参会人数和功能需求选择：
 
-![学生使用视频会议软件学习](https://img.ulec.com.cn/对比评测-折扣/zoom-microsoft-teams-2026-08-06-0c5cc048cd-image-02-2026-1679x1300.jpg)
+![学生使用视频会议软件学习](https://img.discount.org.cn/对比评测-折扣/zoom-microsoft-teams-2026-08-06-0c5cc048cd-image-02-2026-1679x1300.jpg)
 
 
 - 若只需少量参会者且要求不高，免费版即可满足。

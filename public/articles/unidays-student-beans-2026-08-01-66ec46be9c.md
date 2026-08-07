@@ -8,7 +8,7 @@ slug: 'unidays-student-beans-2026-08-01-66ec46be9c'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-折扣/unidays-student-beans-2026-08-01-66ec46be9c-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.discount.org.cn/对比评测-折扣/unidays-student-beans-2026-08-01-66ec46be9c-image-01-2026-1880x1253.jpg'
 verified: '2026-08-01T00:00:00Z'
 tags:
   - '学生折扣'
@@ -30,7 +30,7 @@ UNiDAYS 和 Student Beans 是面向全球学生的折扣平台，中国大陆学
 ## 常见失败原因与避坑技巧
 
 
-![学生正在使用手机进行折扣平台认证](https://img.ulec.com.cn/对比评测-折扣/unidays-student-beans-2026-08-01-66ec46be9c-image-01-2026-1880x1253.jpg)
+![学生正在使用手机进行折扣平台认证](https://img.discount.org.cn/对比评测-折扣/unidays-student-beans-2026-08-01-66ec46be9c-image-01-2026-1880x1253.jpg)
 
 ### 学校邮箱限制
 
