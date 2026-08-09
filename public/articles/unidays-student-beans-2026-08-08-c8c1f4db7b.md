@@ -8,7 +8,7 @@ slug: 'unidays-student-beans-2026-08-08-c8c1f4db7b'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-折扣/unidays-student-beans-2026-08-08-c8c1f4db7b-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.discount.org.cn/对比评测-折扣/unidays-student-beans-2026-08-08-c8c1f4db7b-image-01-2026-1880x1253.jpg'
 verified: '2026-08-08T00:00:00Z'
 tags:
   - '学生折扣'
@@ -28,7 +28,7 @@ UNiDAYS和Student Beans是国际上常见的学生折扣平台，均要求用户
 
 支付宝学生认证是国内常用的学生身份验证方式，通过支付宝App内完成，通常需要上传学生证或相关证明。认证后可享受平台内合作商家的学生优惠，覆盖餐饮、出行、购物等本地生活场景。
 
-![学生折扣卡对比示意图](https://img.ulec.com.cn/对比评测-折扣/unidays-student-beans-2026-08-08-c8c1f4db7b-image-01-2026-1880x1253.jpg)
+![学生折扣卡对比示意图](https://img.discount.org.cn/对比评测-折扣/unidays-student-beans-2026-08-08-c8c1f4db7b-image-01-2026-1880x1253.jpg)
 
 
 与国际化平台不同，支付宝学生认证更贴合国内日常消费，折扣力度多为固定优惠或满减。续费成本为零，但认证有效期需关注，通常为一年或一个学年。
