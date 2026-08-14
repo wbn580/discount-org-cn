@@ -8,7 +8,7 @@ slug: 'discount-org-cn-guide-2026-08-12-f7ea442c84'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: ''
+ogImage: 'https://discount.org.cn/og-image.jpg'
 verified: '2026-08-12T00:00:00Z'
 tags:
   - '海淘转运'

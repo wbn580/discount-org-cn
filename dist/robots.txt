@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://discount.org.cn/sitemap-workbuddy.xml
+Sitemap: https://discount.org.cn/sitemap-index.xml
