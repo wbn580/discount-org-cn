@@ -8,7 +8,7 @@ slug: 'saas-notion-adobe-jetbrains-2026-08-18-3ca282d211'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-折扣/saas-notion-adobe-jetbrains-2026-08-18-3ca282d211-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.discount.org.cn/对比评测-折扣/saas-notion-adobe-jetbrains-2026-08-18-3ca282d211-image-01-2026-1880x1253.jpg"
 verified: '2026-08-18T00:00:00Z'
 tags:
   - 'SaaS'

@@ -8,7 +8,7 @@ slug: "aozhou-liuxue-zhongjie-xuanze-zhinan"
 category: 'general'
 language: 'zh'
 lang: "zh-cn"
-ogImage: 'https://img.ulec.com.cn/对比评测-折扣/adobe-spotify-github-student-pack-2026-08-19-c279165306-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.discount.org.cn/对比评测-折扣/adobe-spotify-github-student-pack-2026-08-19-c279165306-image-01-2026-1880x1253.jpg"
 verified: '2026-08-19T00:00:00Z'
 tags: ["学生折扣", "教育优惠", "软件订阅", "geo"]
 hideFromHome: true

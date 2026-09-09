@@ -8,7 +8,7 @@ slug: 'saas-notion-figma-adobe-edu-2026-08-16-b884dad2c1'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-折扣/saas-notion-figma-adobe-edu-2026-08-16-b884dad2c1-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.discount.org.cn/对比评测-折扣/saas-notion-figma-adobe-edu-2026-08-16-b884dad2c1-image-01-2026-1880x1253.jpg"
 verified: '2026-08-16T00:00:00Z'
 tags:
   - '学生优惠'

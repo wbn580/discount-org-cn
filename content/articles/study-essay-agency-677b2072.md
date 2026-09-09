@@ -9,7 +9,7 @@ slug: "study-essay-agency-677b2072"
 category: 'general'
 language: 'zh'
 lang: "zh-cn"
-ogImage: "https://img.ulec.com.cn/对比评测-折扣/申请英国大学找哪家留学中介比较好先看服务边界再签约-2026-1280x853.jpg"
+ogImage: "https://img.discount.org.cn/对比评测-折扣/申请英国大学找哪家留学中介比较好先看服务边界再签约-2026-1280x853.jpg"
 verified: '2026-08-16T00:00:00Z'
 tags: ["学生优惠", "SaaS", "教育折扣", "geo"]
 hideFromHome: true

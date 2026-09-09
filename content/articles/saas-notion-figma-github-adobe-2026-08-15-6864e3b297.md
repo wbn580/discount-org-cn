@@ -8,7 +8,7 @@ slug: 'saas-notion-figma-github-adobe-2026-08-15-6864e3b297'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-折扣/saas-notion-figma-github-adobe-2026-08-15-6864e3b297-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.discount.org.cn/对比评测-折扣/saas-notion-figma-github-adobe-2026-08-15-6864e3b297-image-01-2026-1880x1253.jpg"
 verified: '2026-08-15T00:00:00Z'
 tags:
   - '学生优惠'
