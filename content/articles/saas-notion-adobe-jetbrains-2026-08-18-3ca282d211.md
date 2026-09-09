@@ -40,7 +40,7 @@ tags:
 ## 申请难度与适用范围
 不同平台的申请难度差异较大。通常，使用学校邮箱验证最为简便，但有些学生可能无法获取学校邮箱（如部分非全日制课程）。
 
-![学生使用笔记本电脑查看SaaS软件界面](https://img.ulec.com.cn/对比评测-折扣/saas-notion-adobe-jetbrains-2026-08-18-3ca282d211-image-01-2026-1880x1253.jpg)
+![学生使用笔记本电脑查看SaaS软件界面](https://img.discount.org.cn/对比评测-折扣/saas-notion-adobe-jetbrains-2026-08-18-3ca282d211-image-01-2026-1880x1253.jpg)
 
 
 - **Notion**：只要有学校邮箱，申请过程相对简单，但每年续期需再次确认邮箱有效性。

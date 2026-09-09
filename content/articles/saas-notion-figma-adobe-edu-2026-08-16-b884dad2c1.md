@@ -31,7 +31,7 @@ Figma 面向学生和教育工作者提供**专业版**的免费教育计划。�
 
 Adobe 为在校学生提供 Creative Cloud 套件的优惠订阅，通常提供**折扣价**（约原价的六折），并包含全年订阅。申请时需通过学校邮箱或学生证进行验证，审核通过后可享受优惠价格。
 
-![学生使用笔记本电脑浏览软件界面](https://img.ulec.com.cn/对比评测-折扣/saas-notion-figma-adobe-edu-2026-08-16-b884dad2c1-image-01-2026-1880x1253.jpg)
+![学生使用笔记本电脑浏览软件界面](https://img.discount.org.cn/对比评测-折扣/saas-notion-figma-adobe-edu-2026-08-16-b884dad2c1-image-01-2026-1880x1253.jpg)
 
 
 ## 微软 Office 365 教育版

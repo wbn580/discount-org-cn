@@ -18,7 +18,7 @@ tags:
 ## 学生优惠概览
 不同 SaaS 工具都为学生提供了专属订阅方案，但在申请条件、折扣幅度和有效期上各有差异。以下基于官方公开信息整理，帮助你快速了解主流选择。
 
-![学生使用笔记本电脑浏览软件界面](https://img.ulec.com.cn/对比评测-折扣/saas-notion-figma-github-adobe-2026-08-15-6864e3b297-image-01-2026-1880x1253.jpg)
+![学生使用笔记本电脑浏览软件界面](https://img.discount.org.cn/对比评测-折扣/saas-notion-figma-github-adobe-2026-08-15-6864e3b297-image-01-2026-1880x1253.jpg)
 
 
 ### Notion

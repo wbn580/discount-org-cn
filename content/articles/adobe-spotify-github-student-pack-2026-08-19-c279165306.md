@@ -27,7 +27,7 @@ tags:
 
 Spotify 为学生提供 Premium 订阅折扣，中国大陆用户需通过合作渠道或国际版获取，申请时需证明学生身份。具体折扣力度和适用地区可能因版本而异。
 
-![学生使用笔记本电脑查看教育优惠](https://img.ulec.com.cn/对比评测-折扣/adobe-spotify-github-student-pack-2026-08-19-c279165306-image-01-2026-1880x1253.jpg)
+![学生使用笔记本电脑查看教育优惠](https://img.discount.org.cn/对比评测-折扣/adobe-spotify-github-student-pack-2026-08-19-c279165306-image-01-2026-1880x1253.jpg)
 
 
 ## GitHub Student Pack
